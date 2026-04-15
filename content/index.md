@@ -30,6 +30,7 @@
 - [nvc](nvc.md) — NVC（非暴力コミュニケーション）：自己愛・他者愛を基盤とするコミュニケーション手法
 - [agile](agile.md) — アジャイル：113ページ分のメモ。「通り過ぎた」フェーズとして総括される
 - [organization-development](organization-development.md) — 組織開発・組織の生命性：「構造の変化だけで本当に実現できる？」という問いを軸に、FSP・NVC・アレグザンダー・パーマカルチャーを接続
+- [teal-organization](teal-organization.md) — ティール組織（ラルー）：インテグラル理論・成人発達理論・スクラム・自然経営との接続。「含んで超える」と守破離の対応
 - [teineina-hatten](teineina-hatten.md) — ていねいな発展（マックス・ニーフ）：ニーズとサティスファイヤーの理論
 - [mental-model](mental-model.md) — ザ・メンタルモデル：痛みの分離から統合へ。★★★★★
 - [u-theory](u-theory.md) — U理論（シャーマー）：シュタイナー影響・アレグザンダーを参考文献に明示。Presencing = conscious participationの組織論版
