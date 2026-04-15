@@ -8,24 +8,24 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "セカンドブレイン",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
-    locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    locale: "ja-JP",
+    baseUrl: "kkd.github.io/iki-iki-garden",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
-      fontOrigin: "googleFonts",
-      cdnCaching: true,
+      fontOrigin: "local",
+      cdnCaching: false,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        header: "Helvetica Neue",
+        body: "Helvetica Neue",
+        code: "Menlo",
       },
       colors: {
         lightMode: {
@@ -88,8 +88,7 @@ const config: QuartzConfig = {
       Plugin.Static(),
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
-      // Comment out CustomOgImages to speed up build time
-      Plugin.CustomOgImages(),
+      // Plugin.CustomOgImages(), // disabled: local fonts not available
     ],
   },
 }
