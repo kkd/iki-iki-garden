@@ -7,6 +7,7 @@
 
 ### Sources（ソース）
 - [src-tkskkd-world-scrapbox](src-tkskkd-world-scrapbox.md) — tkskkd-worldのScrapboxエクスポート全2,836ページの概要（2026-04-14）
+- [src-pattern-theory](src-pattern-theory.md) — パタン・セオリー（ライトナー著、懸田剛訳、2024年日本語版）：15の生命特性・応用例・ポパーとの接続
 - [src-note-kkd](src-note-kkd.md) — note.com記事アーカイブ469記事（2018〜2026）。アレグザンダー・パタン・ランゲージ・ベアフットラン・野中郁次郎・FSPなど
 
 ### Entities（エンティティ）
@@ -27,6 +28,7 @@
 - [wholeness](wholeness.md) — 全体性：ゲーテ・アレグザンダーを貫く有機的・統合的認識論
 - [shu-ha-ri](shu-ha-ri.md) — 守破離：学習段階論。通説の「順番」解釈への根本的疑問を含む
 - [permaculture](permaculture.md) — パーマカルチャー：持続可能なデザイン体系。XP/アジャイルの源流のひとつ
+- [biotope-ecosystem-wholeness](biotope-ecosystem-wholeness.md) — ビオトープ・生態系と全体性：湿地ビオトープ保全活動を通じた全体性の体験。NVC・パーマカルチャーとの接続
 - [nvc](nvc.md) — NVC（非暴力コミュニケーション）：自己愛・他者愛を基盤とするコミュニケーション手法
 - [agile](agile.md) — アジャイル：113ページ分のメモ。「通り過ぎた」フェーズとして総括される
 - [organization-development](organization-development.md) — 組織開発・組織の生命性：「構造の変化だけで本当に実現できる？」という問いを軸に、FSP・NVC・アレグザンダー・パーマカルチャーを接続
