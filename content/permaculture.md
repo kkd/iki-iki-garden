@@ -1,8 +1,8 @@
 ---
 title: パーマカルチャー
 tags: [concept, 自然, 農, デザイン, 持続可能性, ビル・モリソン]
-sources: [src-tkskkd-world-scrapbox]
-updated: 2026-04-14
+sources: [src-tkskkd-world-scrapbox, src-giantech-blog]
+updated: 2026-04-16
 ---
 
 # パーマカルチャー（Permaculture）
@@ -17,7 +17,7 @@ updated: 2026-04-14
 
 > eXtreme Programming（XP）はパーマカルチャーを参考にしており、著者のKent Beckは一時期「Perma Programming」を標榜していた時期もあった。
 
-[[agile]] の源流の一つとして、パーマカルチャーの全体論的デザイン原則がある。
+[[xp]] の思想的源流の一つがパーマカルチャーの全体論的デザイン原則。[[agile]] にも間接的に流れ込んでいる。
 
 ## 関連書籍（5つ星・4つ星）
 
@@ -34,8 +34,29 @@ updated: 2026-04-14
 
 - [[christopher-alexander]] — アレグザンダー：パーマカルチャー×The Nature of Order、Dan Palmer記事で翻訳
 - [[wholeness]] — 全体性：パーマカルチャーの哲学的基盤
-- [[agile]] — XPとパーマカルチャーの接続
+- [[xp]] — eXtreme Programming：Kent Beck「Perma Programming」の源泉
+- [[agile]] — XPを通じた間接的接続
+- [[vegetable-garden]] — 野菜作り・畑：2011年関西デザインコースから続く実践の中心
+- [[biotope-ecosystem-wholeness]] — ビオトープ：「人のための生産」を超える共生の視座
+- [[circular-society]] — 循環型社会：2006-2007年から続く上位コミット。パーマカルチャーを含む
+- [[cross-field-principles]] — 分野を超えて共通する原理：XP×パーマカルチャー×パタン・ランゲージという3つの円の発見が起点
 - [[src-tkskkd-world-scrapbox]] — 出典元
+- [[src-giantech-blog]] — giantech.jp 旧ブログ：ロケットストーブ・オフグリッド・タンポポコーヒーの実践記
+- [[src-slideshare-kkd]] — SlideShareプレゼン資料：「パーマカルチャーとパタン・ランゲージ」（2020-08-05）等
+
+## 関連スライド（SlideShare）
+
+- **[パーマカルチャーとパタン・ランゲージ](https://www.slideshare.net/slideshow/ss-238011029/238011029)**（お話会 2020-08-05, tags: permaculture/patternlanguage/natureoforder）── 3円の一辺を正面から扱った決定版
+- [XPと環境の微妙な関係 夜LT版](https://www.slideshare.net/slideshow/xplt/6621118)（XP祭り2007）── XP=持続可能性の公的最古資料（→ [[xp]] / [[circular-society]]）
+
+## giantech.jp 関連記事（パーマカルチャー関西デザインコース2011を起点とする実践）
+
+- [ロケットストーブワークショップ in 松山](http://giantech.jp/2014/03/23/rocket-stove-workshop-vol0/)（2014-03-23）── 2011年パーマカルチャー関西のデザインコースで出会った高燃焼効率ストーブの自作ワークショップ
+- [パーマカルチャー関西のメルマガに寄稿しました](http://giantech.jp/2014/04/10/pck-mailmagazine-vol1/)（2014-04-10）
+- [皆で作り上げた、オフグリッドカフェ@MYJ 第一回](http://giantech.jp/2015/05/24/offgrid-cafe-at-myj/)（2015-05-24）── 電気もガスもない森でのカフェ実験、ロケットストーブと木質バイオマス
+- [タンポポコーヒーを庭のタンポポから自作してみた](http://giantech.jp/2015/06/08/i-made-dandelion-coffee-myself/)（2015-06-08）── 雑草マネジメントとカフェイン断ちの一挙両得
+- [草が畑に生えているのは問題だ！？　具体例で理解する問題解決アプローチの違い](http://giantech.jp/2015/07/24/are-weeds-problem-or-not/)（2015-07-24）
+
 ## note.com 関連記事
 
 - [パーマカルチャーが軽視しているクリストファー・アレグザンダーの挑戦](https://note.com/kkd/n/n02722f82b94f)

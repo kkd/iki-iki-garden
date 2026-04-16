@@ -41,6 +41,7 @@ Scrapboxの[[wholeness]]（全体性）ページで言及される「ワンネ�
 
 - [[wholeness]] — 全体性：ワンネスとの接続
 - [[tom-brown-jr]] — スピリチュアルへの別の入口
+- [[ikigai]] — 生きがいのベン図（英語圏系譜）：別系統だが「生きがいを真剣に問う」問題関心が共通
 - [[src-tkskkd-world-scrapbox]] — 出典元
 ## note.com 関連記事
 

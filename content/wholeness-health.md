@@ -1,8 +1,8 @@
 ---
 title: 健康の全体論
 tags: [concept, 健康, 身体性, 全体性, 食事, 実践]
-sources: [src-tkskkd-world-scrapbox, src-note-kkd]
-updated: 2026-04-15
+sources: [src-tkskkd-world-scrapbox, src-note-kkd, src-medium-kkd, src-giantech-blog]
+updated: 2026-04-16
 ---
 
 # 健康の全体論
@@ -147,6 +147,20 @@ Scrapboxで複数書籍が★★★★で登録。「システム料理学」と
 - [[permaculture]] — Living System・動的平衡という共通思想
 - [[science-wholeness-tension]] — 科学・エビデンス主義との緊張の認識論的整理
 - [[src-tkskkd-world-scrapbox]] — 出典元（健康生成論書籍5冊以上・食関連29件）
+- [[src-medium-kkd]] — Medium記事「ウェルネスの本当の意味」等
+- [[src-giantech-blog]] — giantech.jp 旧ブログ：ウェルネス=プロセス論・ヘルシープログラマ書評
+
+## Medium 関連記事
+
+- [「ウェルネス」を調べてわかった本当の意味](https://medium.com/@kkd/a112406fe97a)（2016-04-18）— ウェルネス概念の起源を辿った記事
+- [「力強さ」よりも「しなやかさ」を手に入れたいワケ](https://medium.com/@kkd/d0e06877d771)（2017-06-27）— 健康生成論の身体的実践
+
+## giantech.jp 関連記事
+
+- [健康のキーワードは意識的・前向き・全体性、そしてプロセス](http://giantech.jp/2016/04/19/wellness-is-not-state-but-process/)（2016-04-19）── 「ウェルネスは状態ではなくプロセス」
+- [「ヘルシープログラマ」はプログラマ自身のレガシーコード改善ガイドになるか？](http://giantech.jp/2015/08/26/healthy-programmer/)（2015-08-26）
+- [ヘルスハックカンファレンスを松山でやる意味・その理由](http://giantech.jp/2016/02/12/healthhackconf/)（2016-02-12）
+
 ## note.com 関連記事
 
 - [パーマカルチャーが軽視しているクリストファー・アレグザンダーの挑戦](https://note.com/kkd/n/n02722f82b94f)

@@ -1,8 +1,8 @@
 ---
 title: パルクール / Méthode Naturelle
 tags: [concept, 身体知, 全体性, 実践, 人間本来の機能]
-sources: [src-tkskkd-world-scrapbox, src-note-kkd]
-updated: 2026-04-15
+sources: [src-tkskkd-world-scrapbox, src-note-kkd, src-medium-kkd, src-giantech-blog]
+updated: 2026-04-16
 ---
 
 # パルクール / Méthode Naturelle
@@ -64,12 +64,17 @@ from-to構造：環境への参与として身体知が統合される
 
 - **「Breaking the Jump」**（Julie Angel著）— Scrapbox登録済み書籍。パルクールのドキュメンタリー本。はしがきはChristopher McDougall（『BORN TO RUN』著者）。ベアフットランとパルクールが同じ著者の文脈で結ばれる。
 
-- **「Parkour Strength Training、Methode Naturelleについて — トレーニングの全体最適として」**（Medium記事）— Scrapboxの「ランニングや身体に関する過去記事一覧」にリンクあり。LT発表済み。
+- **[「トレーニングの全体最適」としてのParkour Strength Training、Methode Naturelleについて](https://medium.com/@kkd/2b00f6e9db09)**（Medium 2017-09-25）— Scrapboxの「ランニングや身体に関する過去記事一覧」にリンクあり。LT発表済み。
 
 - **XP祭り等でLT発表済み**（Scrapbox記録）。パルクールを「トレーニングの全体最適」という文脈でソフトウェア開発コミュニティに紹介している。
 
+## ランニング軸との関係
+
+[[running]]（ランニング）とパルクールは **「人間本来の身体操法の回復」** という共通根を持つが、別の実践。パルクールは「環境への適応・障害越え」、ランニングは「前に進み続ける持続的運動」。両者の交点がベアフットランであり、Takeshiにとって最も重要な身体的フィードバックの舞台になっている。詳細は [[running]] 視点1（ベアフットラン × 人間本来性の回復）を参照。
+
 ## 関連ページ
 
+- [[running]] — ランニング：ベアフットランを軸に共通根をもつ別実践
 - [[michael-polanyi]] — from-to構造：パルクールはその最も直接的な身体的実践例のひとつ
 - [[wholeness]] — 全体性：部位分析でなく有機体としての動き
 - [[henri-bortoft]] — 現れを真剣に受け取る：痛みも環境フィードバックも消去しない
@@ -79,6 +84,12 @@ from-to構造：環境への参与として身体知が統合される
 - [[david-hawkins]] — 意識レベル：パワー的実践としての身体運動
 - [[src-tkskkd-world-scrapbox]] — Scrapbox記録（Breaking the Jump, ベアフット関連42件）
 - [[src-note-kkd]] — note記事：「人体の潜在力」「トレーニングの全体最適」
+- [[src-medium-kkd]] — Medium「Parkour Strength Training、Methode Naturelle」（2017）
+- [[src-giantech-blog]] — giantech.jp「ナチュラルランニング講習 in 愛媛」（2015）
+
+## giantech.jp 関連記事
+
+- [ナチュラルランニングの講習に参加してわかった遥かなる道のり](http://giantech.jp/2015/05/09/natural-running-in-ehime/)（2015-05-09）── 吉野剛（日本ベアフットランニング協会）× 高岡尚司（裸足マラソン日本記録保持者）のダブルセミナー参加記。Méthode Naturelleの実践的入口
 ## note.com 関連記事
 
 - [パーマカルチャーが軽視しているクリストファー・アレグザンダーの挑戦](https://note.com/kkd/n/n02722f82b94f)

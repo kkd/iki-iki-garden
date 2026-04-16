@@ -1,8 +1,8 @@
 ---
 title: 「アジャイル式」健康カイゼンガイド
 tags: [source, 著書, 健康, 身体性, 全体性, パタン・ランゲージ, アジャイル, 5つ星]
-sources: [src-tkskkd-world-scrapbox, src-note-kkd]
-updated: 2026-04-15
+sources: [src-tkskkd-world-scrapbox, src-note-kkd, src-medium-kkd, src-giantech-blog]
+updated: 2026-04-16
 ---
 
 # 「アジャイル式」健康カイゼンガイド
@@ -142,9 +142,50 @@ Scrapboxで複数書籍が★★★★で登録されている最重要の食の
 - [[agile]] — アジャイル宣言へのオマージュと超克
 - [[nvc]] — 「ありたい」= ニーズに繋がること
 - [[matsuo-basho]] — 「自然の意に沿った食べ方」= 造化に従う：食の全体性と同型
+- [[vegetable-garden]] — 野菜作り・畑：「育てる」と「食べる」の不可分という実践
+- [[running]] — ランニング：2012年開始から続く身体実践の核。マイナス15kgの起点
 - [[science-wholeness-tension]] — 科学・エビデンス主義との緊張：ポジティヴヘルス・健康生成論がその応答
 - [[src-tkskkd-world-scrapbox]] — Scrapbox記録（21件の関連ページ）
 - [[src-note-kkd]] — note記事での言及・展開
+- [[src-medium-kkd]] — Medium記事：ウェルネス・腰痛体験記連作・レガシーボディ改善物語
+- [[src-giantech-blog]] — giantech.jp 旧ブログ：減量失敗体験連作・スタンディングデスク・ヘルシープログラマ・ヘルスハックカンファレンス
+
+## giantech.jp 関連記事（本書の前史・2014〜2017）
+
+### 減量失敗体験 連作6本（2015-03-09）── 本書「ありたい」の原点
+- [イントロダクション](http://giantech.jp/2015/03/09/failure-experiences-of-weight-loss/)
+- [(1) 若気の至りで食事制限！しかし…](http://giantech.jp/2015/03/09/failure-experiences-of-weight-loss-1/)
+- [(2) ９品目ダイエットで痩せた！しかし…](http://giantech.jp/2015/03/09/failure-experiences-of-weight-loss-2/)
+- [(3) 自転車通勤で健康的に痩せた！！しかし…](http://giantech.jp/2015/03/09/failure-experiences-of-weight-loss-3/)
+- [(4) １日２食で一気に痩せた！しかし…](http://giantech.jp/2015/03/09/failure-experiences-of-weight-loss-4/)
+- [減量失敗体験から学んだこと](http://giantech.jp/2015/03/09/failure-experiences-of-weight-loss-retro/)
+
+### 実践と実験
+- [やせる！KPTで気づかされたダイエットの秘訣](http://giantech.jp/2014/08/29/yaseru-kpt/)（2014-08-29）── KPT(アジャイルふりかえり)を健康に応用した初期実験
+- [スタンディング環境を半年続けてわかったこと](http://giantech.jp/2015/05/26/impression-of-working-at-standing-desk-for-a-half-year/)（2015-05-26）
+- [3年間のランニングと体重の変化をグラフ化してのふりかえり](http://giantech.jp/2015/08/11/weight-and-distance-chart-since-2012/)（2015-08-11）── マイナス15kgの記録
+- [「ヘルシープログラマ」はプログラマ自身のレガシーコード改善ガイドになるか？](http://giantech.jp/2015/08/26/healthy-programmer/)（2015-08-26）── 本書のタイトル発想の源泉
+- [ヘルスハックカンファレンスを松山でやる意味・その理由](http://giantech.jp/2016/02/12/healthhackconf/)（2016-02-12）── 本書の前身イベント
+- [健康のキーワードは意識的・前向き・全体性、そしてプロセス](http://giantech.jp/2016/04/19/wellness-is-not-state-but-process/)（2016-04-19）── 「ウェルネスは状態ではなくプロセス」
+- [2017年のスタンディングデスク事情を調べてみたらバリエーションが増えていて驚いた件](http://giantech.jp/2017/08/07/which-standingdesk-should-you-choose/)（2017-08-07）
+
+## Medium 関連記事（健康・身体・ウェルネス系）
+
+### ウェルネス概念の掘り下げ
+- [「ウェルネス」を調べてわかった本当の意味](https://medium.com/@kkd/a112406fe97a)（2016-04-18）— WHO定義から遡ってウェルネスの本来の意味を調べた記事。本書の思想的下地
+
+### 腰痛体験記・魔女の一撃連作（2016年4月）
+「寝たきりから脱出」までの自己観察の連作は、痛みを情報として受け取る実践記録：
+- [ある午後に訪れた魔女の一撃と非日常](https://medium.com/@kkd/fa248df3fc67)（2016-04-26）
+- [はじめてのトイレ、遥かなる旅](https://medium.com/@kkd/13d8b18e9da3)（2016-04-26）
+- [僕はあの日歩いていた爺さんだった](https://medium.com/@kkd/269bab2e9453)（2016-04-27）
+- [ようやく寝たきりから脱出！？](https://medium.com/@kkd/e9b4a8d4d8d7)（2016-04-28）
+- [なぜ立てないほどの腰痛になったのだろうか？](https://medium.com/@kkd/a18337786413)（2016-04-29）
+
+### 「しなやかさ」と40代の身体改善
+- [「力強さ」よりも「しなやかさ」を手に入れたいワケ](https://medium.com/@kkd/d0e06877d771)（2017-06-27）— 本書の「動的平衡」「ありたい」に直結
+- [40代から始めたレガシーボディ改善物語](https://medium.com/@kkd/b557943540e4)（2017-08-12）— 本書前史の自己改善記録
+
 ## note.com 関連記事
 
 - [アレグザンダー勉強会にむけて「私とパターン、そしてアレグザンダー」(1st Decade)](https://note.com/kkd/n/n21d9f15e8737)

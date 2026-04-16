@@ -1,8 +1,8 @@
 ---
 title: NVC（非暴力コミュニケーション）
 tags: [concept, コミュニケーション, 人間関係, マーシャル・ローゼンバーグ]
-sources: [src-tkskkd-world-scrapbox]
-updated: 2026-04-14
+sources: [src-tkskkd-world-scrapbox, src-medium-kkd]
+updated: 2026-04-16
 ---
 
 # NVC（非暴力コミュニケーション）
@@ -46,6 +46,12 @@ NVCにおける感情は「ニーズが満たされているか否か」のシ�
 - [[mental-model]] — ザ・メンタルモデル（感情・ニーズの深層構造）
 - [[media-log]] — フィクション作品一覧
 - [[felt-state-pattern]] — FSP：NVCを組織・場レベルの力学として拡張したTakeshiのオリジナル概念
+- [[src-medium-kkd]] — Medium「推論のはしご」
+
+## Medium 関連記事
+
+- [コミュニケーションで大事な推論のはしごについて](https://medium.com/@kkd/a10ce4ae2f4c)（2018-12-24）— Chris Argyris由来の推論のはしご。NVCの観察とニーズの分離に通じる
+
 ## note.com 関連記事
 
 - [XP祭り2022で基調講演をした報告と、いくつかのとても重要な補足について](https://note.com/kkd/n/n2896894c0192)

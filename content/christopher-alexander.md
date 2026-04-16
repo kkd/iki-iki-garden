@@ -15,12 +15,12 @@ updated: 2026-04-14
 
 ## 主要著作
 
-| 著作 | 概要 |
-|------|------|
-| **パタン・ランゲージ** (A Pattern Language, APL, 1977) | 建築・都市・コミュニティのデザインに使える253のパタンを収録。ソフトウェアのデザインパタンの源流にもなった |
-| **The Nature of Order** (NOO, 全4巻, 2002–2005) | アレグザンダーの集大成。全体性・センター・15のプロパティ・生命の強度を体系化 |
-| **The Timeless Way of Building** (1979) | APLの理論的基盤。「時を超えた建設の道」 |
-| **パタンセオリー** (翻訳版) | APL・NOO・Battleを俯瞰できる入門書。翻訳クラファンに参加 |
+| 著作                                            | 概要                                                                |
+| --------------------------------------------- | ----------------------------------------------------------------- |
+| **パタン・ランゲージ** (A Pattern Language, APL, 1977) | 建築・都市・コミュニティのデザインに使える253のパタンを収録。ソフトウェアのデザインパタンの源流にもなった            |
+| **The Nature of Order** (NOO, 全4巻, 2002–2005) | アレグザンダーの集大成。全体性・センター・15のプロパティ・生命の強度を体系化                           |
+| **The Timeless Way of Building** (1979)       | APLの理論的基盤。「時を超えた建設の道」                                             |
+| **パタン・セオリー** (ヘルムート・ライトナー著）                   | APL・NOO・Battleを俯瞰できる入門書。アレグザンダー作ではないが、入門書としておすすめ。翻訳クラファンにより翻訳出版した |
 
 「パタン・ランゲージ」を「パタラン」と略すのはしっくりこない（「パタン」と呼ぶのは意図的）。
 
@@ -130,7 +130,10 @@ The Nature of Orderの中心概念。世界はセンター（中心性）の重�
 - [[wholeness]] — 全体性：アレグザンダーの哲学的中核
 - [[oka-kiyoshi]] — 岡潔：feeling=情緒という東西接続
 - [[matsuo-basho]] — 芭蕉：造化=The Nature of Order
+- [[zoka]] — 造化：アレグザンダーの核心概念と東西接続
+- [[xp]] — eXtreme Programming：Kent Beckがアレグザンダーから直接影響を受けた方法論
 - [[permaculture]] — XPを通じた思想的接続
+- [[cross-field-principles]] — 分野を超えて共通する原理：XP×パーマカルチャー×パタン・ランゲージの3つの円の発見
 - [[agile]] — パタン・ランゲージ→GoF→XP→アジャイルの系譜
 - [[mental-model]] — 生命の強度と「分離から統合へ」の接続仮説
 - [[goethe]] — ゲーテ：参与的認識論という同じ地平
@@ -138,6 +141,22 @@ The Nature of Orderの中心概念。世界はセンター（中心性）の重�
 - [[u-theory]] — U理論がアレグザンダー著作を参考文献に明示（Timeless, APL, NOO Vol.4）
 - [[agile-health-kaizen]] — 「アジャイル式」健康カイゼンガイド：「構造保存変容なんだよね」とTakeshi自身が明言した著書
 - [[src-tkskkd-world-scrapbox]] — 出典元
+- [[src-medium-kkd]] — Medium「題名のない対話」シリーズ
+- [[src-giantech-blog]] — giantech.jp 旧ブログ：震災復興・Agile Tour Osakaワークショップ・USM本
+- [[src-slideshare-kkd]] — SlideShareプレゼン資料：パタン・ランゲージ/NOO系の発表多数
+
+## Medium 関連記事
+
+- [「題名のない対話」という雑談の目指す所](https://medium.com/@kkd/c0fb7c6f4997)（2016-12-26）
+- [題名のない対話 Vol.1「パタン・ランゲージとユーザーストーリーマッピング」](https://medium.com/@kkd/6f0fc452b39e)（2016-12-26）
+- [題名のない対話 Vol.2「パタン・ランゲージと『君の名は。』」](https://medium.com/@kkd/819416a06887)（2017-01-06）
+
+## giantech.jp 関連記事
+
+- [パタン・ランゲージによる震災復興](http://giantech.jp/2013/04/24/reconstruction-with-pattern-language/)（2013-04-24）
+- [Agile Tour Osaka 2014でパタン・ランゲージのワークショップを担当しました](http://giantech.jp/2014/10/11/agile-tour-osaka-2014-patternlanguage/)（2014-10-11）
+- [ユーザーストーリーマッピング本出版に寄せて](http://giantech.jp/2015/08/05/user-story-mapping-book/)（2015-08-05）
+
 ## note.com 関連記事
 
 - [アレグザンダー勉強会にむけて「私とパターン、そしてアレグザンダー」(1st Decade)](https://note.com/kkd/n/n21d9f15e8737)

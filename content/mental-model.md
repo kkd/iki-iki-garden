@@ -44,6 +44,7 @@ updated: 2026-04-14
 - [[media-log]] — フィクション作品一覧
 - [[felt-state-pattern]] — FSP：メンタルモデルの防衛反応構造を組織の場レベルで記述したTakeshiのオリジナル概念
 - [[david-hawkins]] — 意識レベル：分離の意識（フォース）vs 源・全体性の意識（パワー）
+- [[running]] — ランニング：痛みとの対話による「分離から統合」の身体実装版
 - [[src-tkskkd-world-scrapbox]] — 出典元
 ## note.com 関連記事
 

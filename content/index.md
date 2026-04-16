@@ -9,6 +9,9 @@
 - [src-tkskkd-world-scrapbox](src-tkskkd-world-scrapbox.md) — tkskkd-worldのScrapboxエクスポート全2,836ページの概要（2026-04-14）
 - [src-pattern-theory](src-pattern-theory.md) — パタン・セオリー（ライトナー著、懸田剛訳、2024年日本語版）：15の生命特性・応用例・ポパーとの接続
 - [src-note-kkd](src-note-kkd.md) — note.com記事アーカイブ469記事（2018〜2026）。アレグザンダー・パタン・ランゲージ・ベアフットラン・野中郁次郎・FSPなど
+- [src-medium-kkd](src-medium-kkd.md) — Medium @kkd 公開記事131本（2015〜2020）。四国のみち・アジャツール連載21回・TDD対談・Agile459史・題名のない対話など
+- [src-giantech-blog](src-giantech-blog.md) — giantech.jp 旧ブログ 77記事（2013〜2017）。地方アジャイル黎明期、XPE新訳、IKIGAI出自調査、減量失敗体験連作など
+- [src-slideshare-kkd](src-slideshare-kkd.md) — SlideShare プレゼン資料 110本（2004〜2021）。XP祭り2007「XP=エコロジー活動」、XP白本参考文献、パーマカルチャーとパタン・ランゲージ、NOO、メタファー思考など
 
 ### Entities（エンティティ）
 - [christopher-alexander](christopher-alexander.md) — クリストファー・アレグザンダー：建築家。パタン・ランゲージ・The Nature of Order。51ページ言及、追悼記事集を主導
@@ -26,11 +29,13 @@
 
 ### Concepts（概念）
 - [wholeness](wholeness.md) — 全体性：ゲーテ・アレグザンダーを貫く有機的・統合的認識論
+- [zoka](zoka.md) — 造化：芭蕉「笈の小文」=アレグザンダー The Nature of Order。東西の参与的認識論を貫く中核概念
 - [shu-ha-ri](shu-ha-ri.md) — 守破離：学習段階論。通説の「順番」解釈への根本的疑問を含む
 - [permaculture](permaculture.md) — パーマカルチャー：持続可能なデザイン体系。XP/アジャイルの源流のひとつ
 - [biotope-ecosystem-wholeness](biotope-ecosystem-wholeness.md) — ビオトープ・生態系と全体性：湿地ビオトープ保全活動を通じた全体性の体験。NVC・パーマカルチャーとの接続
 - [nvc](nvc.md) — NVC（非暴力コミュニケーション）：自己愛・他者愛を基盤とするコミュニケーション手法
 - [agile](agile.md) — アジャイル：113ページ分のメモ。「通り過ぎた」フェーズとして総括される
+- [xp](xp.md) — eXtreme Programming（Kent Beck）：Takeshiが最も影響を受けた体系。XP=Balanced/Harmony/全体性としての再解釈、「忘れられたXPer」
 - [organization-development](organization-development.md) — 組織開発・組織の生命性：「構造の変化だけで本当に実現できる？」という問いを軸に、FSP・NVC・アレグザンダー・パーマカルチャーを接続
 - [teal-organization](teal-organization.md) — ティール組織（ラルー）：インテグラル理論・成人発達理論・スクラム・自然経営との接続。「含んで超える」と守破離の対応
 - [teineina-hatten](teineina-hatten.md) — ていねいな発展（マックス・ニーフ）：ニーズとサティスファイヤーの理論
@@ -44,13 +49,19 @@
 - [science-wholeness-tension](science-wholeness-tension.md) — 科学・医学的批判と全体性知識の緊張：「疑似科学」批判とポパー・クーン・ラカトシュによる応答
 - [binary-thinking-vs-wholeness](binary-thinking-vs-wholeness.md) — 二元論的思考から「度合い」への転換：「生きている/死んでいる」ではなく「生命の質」で理解する
 - [framework-paradox](framework-paradox.md) — フレームワークのパラドックス：得るもの（効率化・認知負荷低減）と失うもの（体験・全体視野）の分析
+- [circular-society](circular-society.md) — 循環型社会・サステナビリティ：2006年「XP=持続可能性」気づきからの20年コミット。小さな循環・脱成長・サーキュラーエコノミー
+- [cross-field-principles](cross-field-principles.md) — 分野を超えて共通する原理・見えないつながり：XP×パーマカルチャー×パタン・ランゲージの3円発見から始まるwiki全体のメタ軸
+- [ikigai](ikigai.md) — IKIGAI（生きがいのベン図）：2011年Ari Bancale起源の英語圏4円ベン図の出自を辿ったTakeshiの原点調査とIKIGAI Questワークショップ
 
 ### Analyses（分析）
 - [five-star-books](five-star-books.md) — 5つ星書籍73冊の一覧。テーマ別に整理
 - [media-log](media-log.md) — アニメ・マンガ・映画・ドラマ感想ログ。30作品、テーマキーワードで概念ページと接続
+- [interests-timeline](interests-timeline.md) — 2010〜2026 関心変遷タイムライン。6フェーズ・転換点6つ・テーマクラスタのライフライン
 
 ### Projects（プロジェクト）
 - [shikoku-michi](shikoku-michi.md) — 四国のみち・走り遍路：1,500km超のトレイルランニングプロジェクト
+- [vegetable-garden](vegetable-garden.md) — 野菜作り・畑：「自分で必要なものは自分でつくる」×「休耕地活用」。庭菜園→借り畑→水田→畑+ビオトープ共生へ
+- [running](running.md) — ランニング：2012年開始の身体実践。ベアフット・健康/思考整理・目標挑戦・超長距離・痛みの受容の5視点
 
 ### Notes（ノート）
 <!-- 雑記・日記・未整理メモ -->

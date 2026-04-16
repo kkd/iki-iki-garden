@@ -1,8 +1,8 @@
 ---
 title: ティール組織
 tags: [concept, 組織, 組織開発, 発達理論]
-sources: [src-tkskkd-world-scrapbox]
-updated: 2026-04-15
+sources: [src-tkskkd-world-scrapbox, src-medium-kkd]
+updated: 2026-04-16
 ---
 
 # ティール組織（Teal Organization）
@@ -84,6 +84,12 @@ E.F.シューマッハーの「小さいことは美しい」——規模の縮�
 - [[wholeness-health]] — 健康の全体論：ビュートゾルフの実践
 - [[christopher-alexander]] — 全体性：ティールが目指す「生き生きとした組織」とアレグザンダーの「生命の強度」
 - [[nonaka-ikujiro]] — 知識創造：組織の知識生成とティールの自律性
+- [[src-medium-kkd]] — Medium「ティール組織とアジャイル」
+
+## Medium 関連記事
+
+- [ティール組織とアジャイル](https://medium.com/@kkd/2fb19bc00bc9)（2018-12-24）
+
 ## note.com 関連記事
 
 - [分離から統合に至る２つの内省アプローチ〜XPとザ・メンタルモデル](https://note.com/kkd/n/nf10c85aa29ac)

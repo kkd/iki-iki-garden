@@ -1,8 +1,8 @@
 ---
 title: 全体性
 tags: [concept, 哲学, ゲーテ, アレグザンダー, 自然観]
-sources: [src-tkskkd-world-scrapbox]
-updated: 2026-04-14
+sources: [src-tkskkd-world-scrapbox, src-medium-kkd]
+updated: 2026-04-16
 ---
 
 # 全体性
@@ -61,6 +61,13 @@ updated: 2026-04-14
 - [[david-hawkins]] — 意識レベル：パワーの状態で初めて本物の全体性に触れられる
 - [[agile-health-kaizen]] — 「カラダにおける全体性の回復」をテーマにしたTakeshiの著書
 - [[src-tkskkd-world-scrapbox]] — 出典元
+- [[src-medium-kkd]] — Medium記事：全体最適・スティーブジョブスの自然観
+
+## Medium 関連記事
+
+- [自然とユーザーとスティーブ・ジョブス](https://medium.com/@kkd/f1adb5f5b0c4)（2017-02-15）
+- [頭のいい人が全体最適を阻害する…かもという話](https://medium.com/@kkd/bf65565df182)（2019-07-11）
+
 ## note.com 関連記事
 
 - [パーマカルチャーが軽視しているクリストファー・アレグザンダーの挑戦](https://note.com/kkd/n/n02722f82b94f)
