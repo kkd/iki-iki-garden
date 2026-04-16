@@ -43,6 +43,7 @@
 - [wholeness-health](wholeness-health.md) — 健康の全体論：健康生成論・ポジティヴヘルス・食・身体運動・アジャイル式健康カイゼンの集成
 - [science-wholeness-tension](science-wholeness-tension.md) — 科学・医学的批判と全体性知識の緊張：「疑似科学」批判とポパー・クーン・ラカトシュによる応答
 - [binary-thinking-vs-wholeness](binary-thinking-vs-wholeness.md) — 二元論的思考から「度合い」への転換：「生きている/死んでいる」ではなく「生命の質」で理解する
+- [framework-paradox](framework-paradox.md) — フレームワークのパラドックス：得るもの（効率化・認知負荷低減）と失うもの（体験・全体視野）の分析
 
 ### Analyses（分析）
 - [five-star-books](five-star-books.md) — 5つ星書籍73冊の一覧。テーマ別に整理
