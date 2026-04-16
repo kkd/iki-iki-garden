@@ -128,4 +128,3 @@ status: 深化中 ── 今後丁寧に言語化していきたい領域
 - [[teal-organization]] — 組織のWholeness
 - [[goethe]] / [[michael-polanyi]] — 参与的認識の理論基盤
 - [[zoka]] — 造化：造り手・行為・対象の一体性
-- [[existence-dignity]] — 存在の尊厳：観測される側への同様の視座

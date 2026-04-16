@@ -104,7 +104,6 @@ NVC（非暴力コミュニケーション）の前提：
 - [[permaculture]] — パーマカルチャーと持続可能な設計
 - [[vegetable-garden]] — 野菜作り・畑：ビオトープと同時並行する「人のための生産」の軸。両者を組み合わせる試みが現在のTakeshiの中心
 - [[circular-society]] — 循環型社会：2006年からの一貫したコミット。人以外の生物との共生へ拡張するフェーズ
-- [[existence-dignity]] — Existence/Environmental Dignity：生物多様性と環境の尊厳の思想的基盤
 - [[nvc]] — 非暴力コミュニケーションと相互依存
 - [[agile-health-kaizen]] — 全体性を基盤とした健康改善
 - [[src-giantech-blog]] — giantech.jp「生き物写真共有グループを一年運営して気づいた世界の魅力」

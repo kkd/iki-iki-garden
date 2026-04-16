@@ -39,7 +39,6 @@ updated: 2026-04-16
 ## 関連する概念・人物
 
 - [[observer-in-wholeness]] — 観測者を含めた全体性：自己分離との不可分性
-- [[existence-dignity]] — 存在の尊厳：観測される側（生物・無生物含む）への視座
 
 - [[christopher-alexander]] — アレグザンダー：全体性・センター・15のプロパティの体系化者
 - [[henri-bortoft]] — ボルフト：「本物の全体性 vs にせの全体性」の哲学的言語を提供
