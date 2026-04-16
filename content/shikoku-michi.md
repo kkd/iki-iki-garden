@@ -35,3 +35,10 @@ updated: 2026-04-14
 - [[tagame-gengoro]] — 愛媛・四国での自然探索という共通の場
 - [[tom-brown-jr]] — 自然に身体ごと参与する姿勢の共鳴
 - [[src-tkskkd-world-scrapbox]] — 出典元
+## note.com 関連記事
+
+- [スクフェス大阪2023 四国トラックの感想とまとめ](https://note.com/kkd/n/n18c5b69ef5de)
+- [ULTRA-TRAIL Mt.FUJI 2023~はじめての100マイルレース完走記(2) 遂にスタート！しかし...](https://note.com/kkd/n/n8de50fd77e58)
+- [コロナ怪しいかも?と思った時の自己隔離マニュアル(8/5更新)](https://note.com/kkd/n/n151e55459c4f)
+- [ULTRA-TRAIL Mt.FUJI 2023~はじめての100マイルレース完走記(3) まさかの復活そして感謝と共に...](https://note.com/kkd/n/n778155fea18e)
+- [『一万年の旅路』と10年越しのパタン・ランゲージとNOOについて話した〜スクラムフェス大阪2020](https://note.com/kkd/n/ne2ce31357443)

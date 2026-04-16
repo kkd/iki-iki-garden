@@ -147,3 +147,10 @@ Scrapboxで複数書籍が★★★★で登録。「システム料理学」と
 - [[permaculture]] — Living System・動的平衡という共通思想
 - [[science-wholeness-tension]] — 科学・エビデンス主義との緊張の認識論的整理
 - [[src-tkskkd-world-scrapbox]] — 出典元（健康生成論書籍5冊以上・食関連29件）
+## note.com 関連記事
+
+- [パーマカルチャーが軽視しているクリストファー・アレグザンダーの挑戦](https://note.com/kkd/n/n02722f82b94f)
+- [パタン・セオリーを学んで役に立ったことは？](https://note.com/kkd/n/nebcfb6171fef)
+- [『パタン・セオリー』訳者あとがきの未公開版を公開します](https://note.com/kkd/n/n510df7d103ad)
+- [パタンセオリー翻訳プロジェクトの魅力と想いを書いてみた](https://note.com/kkd/n/n3933cc32af69)
+- [読者から頂いたメッセージから学んだこと](https://note.com/kkd/n/n2217afb9d058)

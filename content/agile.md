@@ -43,3 +43,10 @@ updated: 2026-04-14
 - [[miyamoto-tsuneichi]] — 宮本常一：XP祭り2021で共に語られた「傍流の観察者」
 - [[organization-development]] — 組織開発：アジャイルの先にある「組織の生命性」への問い
 - [[src-tkskkd-world-scrapbox]] — 出典元
+## note.com 関連記事
+
+- [スクフェス大阪2023 四国トラックの感想とまとめ](https://note.com/kkd/n/n18c5b69ef5de)
+- [パーマカルチャーが軽視しているクリストファー・アレグザンダーの挑戦](https://note.com/kkd/n/n02722f82b94f)
+- [アレグザンダー勉強会にむけて「私とパターン、そしてアレグザンダー」(1st Decade)](https://note.com/kkd/n/n21d9f15e8737)
+- [分離から統合に至る２つの内省アプローチ〜XPとザ・メンタルモデル](https://note.com/kkd/n/nf10c85aa29ac)
+- [智慧を身体に刻み込む「我守破離」というモデル](https://note.com/kkd/n/n354d28dbdf00)

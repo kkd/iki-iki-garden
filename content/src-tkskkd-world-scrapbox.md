@@ -16,6 +16,10 @@ updated: 2026-04-14
 
 Scrapboxプロジェクトhttpsckdの個人知識ベース「tkskkd-world」の全エクスポート。2020年頃から蓄積された思考・読書記録・日記・概念メモの集積。
 
+オリジナルはこちら https://scrapbox.io/tkskkd-world/
+今後もCosense（Scrapbox）を編集しつつ、その結果を取り込んでこちらに反映していく。
+書評などはしばらく止まっているが。。。
+
 ## 規模
 
 | 項目 | 数 |

@@ -101,3 +101,10 @@ Scrapboxには **「Breaking the Jump」**（Julie Angel著、はしがきChrist
 - [[parkour]] — パルクール・Méthode Naturelle：from-to構造の身体的実践（ベアフットランと同型）
 - [[permaculture]] — 人間本来の機能×全体論的設計という共通テーマ
 - [[mental-model]] — 痛みを消去しない（感じて繋がる）という接続
+## note.com 関連記事
+
+- [アレグザンダー勉強会にむけて「私とパターン、そしてアレグザンダー」(1st Decade)](https://note.com/kkd/n/n21d9f15e8737)
+- [パーマカルチャーが軽視しているクリストファー・アレグザンダーの挑戦](https://note.com/kkd/n/n02722f82b94f)
+- [パタン・セオリーを学んで役に立ったことは？](https://note.com/kkd/n/nebcfb6171fef)
+- [時を超えた質は感性・感情によって生まれる〜2025/04/30 豆寄席 講演レポート「AI時代の生き生きとしたプロダクト」](https://note.com/kkd/n/n75672cf9a4a2)
+- [スクフェス大阪2023 四国トラックの感想とまとめ](https://note.com/kkd/n/n18c5b69ef5de)

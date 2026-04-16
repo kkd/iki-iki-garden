@@ -41,3 +41,10 @@ NVC・デザイン・プロダクトのニーズ概念との接続・再考に�
 - [[nvc]] — NVCのニーズ概念との接続
 - [[wholeness]] — システムとしての全体論的ニーズ観
 - [[src-tkskkd-world-scrapbox]] — 出典元
+## note.com 関連記事
+
+- [スクフェス大阪2023 四国トラックの感想とまとめ](https://note.com/kkd/n/n18c5b69ef5de)
+- [ULTRA-TRAIL Mt.FUJI 2023~はじめての100マイルレース完走記(2) 遂にスタート！しかし...](https://note.com/kkd/n/n8de50fd77e58)
+- [XP祭り2022で基調講演をした報告と、いくつかのとても重要な補足について](https://note.com/kkd/n/n2896894c0192)
+- [スクフェス仙台2022で自己理解のワークをしてきた話](https://note.com/kkd/n/naf46083d1233)
+- [15年ぶりに盈進学園 東野高等学校を訪問して感じたあれこれ](https://note.com/kkd/n/n7bf2996a6746)

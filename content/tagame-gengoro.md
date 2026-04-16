@@ -49,3 +49,10 @@ Scrapbox全体で最も頻繁に参照されるキーワード（タガメ25回�
 - [[shikoku-michi]] — 愛媛・四国での自然探索
 - [[tom-brown-jr]] — 自然に身体ごと参与する姿勢の共鳴
 - [[src-tkskkd-world-scrapbox]] — 出典元
+## note.com 関連記事
+
+- [管理している湿地ビオトープで「親子で生き物観察会2024年秋」を開催しました](https://note.com/kkd/n/n2a036a924efe)
+- [2023.08.06 ビオトープへのお客様来訪と新顔の発見](https://note.com/kkd/n/n9a5e5a44fcdc)
+- [15年ぶりに盈進学園 東野高等学校を訪問して感じたあれこれ](https://note.com/kkd/n/n7bf2996a6746)
+- [人や虫に対する嫌悪感についてのあれこれ](https://note.com/kkd/n/nd2cfd03243d9)
+- [ゴミアシナガサシガメ狂想曲〜空き家で見つけた虫がレアだった](https://note.com/kkd/n/n248a2e0b5ac3)

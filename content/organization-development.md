@@ -129,8 +129,8 @@ Takeshiはアジャイルを「通り過ぎた」フェーズと位置づけて�
 中埜博さん（翻訳者・日本の第一人者）経由で接続。
 
 組織もまた「生命構造」として捉えられる：
-- 管理型組織 = 死んだ構造（Armor状態が固まった場）
-- いきいきとした組織 = センターが生きている構造、感応状態の場
+- 管理型組織 = 生命の質が低い構造（Armor状態が固まった場）
+- いきいきとした組織 = センターの生命の質が高い構造、感応状態の場
 
 → [[christopher-alexander]]・[[felt-state-pattern]]
 
@@ -180,3 +180,10 @@ NVC・メンタルモデル   ← 個人の内的変容
 - [[david-hawkins]] — 意識レベル：フォース（管理型）vsパワー（進化型）組織
 - [[src-tkskkd-world-scrapbox]] — 出典元
 - [[src-note-kkd]] — note記事での組織論的展開
+## note.com 関連記事
+
+- [パーマカルチャーが軽視しているクリストファー・アレグザンダーの挑戦](https://note.com/kkd/n/n02722f82b94f)
+- [『パタン・セオリー』訳者あとがきの未公開版を公開します](https://note.com/kkd/n/n510df7d103ad)
+- [パタンセオリー翻訳プロジェクトの魅力と想いを書いてみた](https://note.com/kkd/n/n3933cc32af69)
+- [スクフェス大阪2023 四国トラックの感想とまとめ](https://note.com/kkd/n/n18c5b69ef5de)
+- [Scrum Festa Osaka で四国トラックやります！](https://note.com/kkd/n/n89d49ed1295e)

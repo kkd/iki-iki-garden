@@ -42,3 +42,10 @@ Scrapboxの[[wholeness]]（全体性）ページで言及される「ワンネ�
 - [[wholeness]] — 全体性：ワンネスとの接続
 - [[tom-brown-jr]] — スピリチュアルへの別の入口
 - [[src-tkskkd-world-scrapbox]] — 出典元
+## note.com 関連記事
+
+- [『パタン・セオリー』訳者あとがきの未公開版を公開します](https://note.com/kkd/n/n510df7d103ad)
+- [「生きがい」は日常にある〜「生きがい」についての文献を調べてみた（１）](https://note.com/kkd/n/n9163c24c8d3a)
+- [これからはじめるふりかえり「いのち」のサイクル](https://note.com/kkd/n/n0a19b487b067)
+- [分離から統合に至る２つの内省アプローチ〜XPとザ・メンタルモデル](https://note.com/kkd/n/nf10c85aa29ac)
+- [5月31日の『小さな美しい村』出版記念イベントを開催しました](https://note.com/kkd/n/ne54d17735364)

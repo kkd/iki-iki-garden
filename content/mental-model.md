@@ -45,3 +45,10 @@ updated: 2026-04-14
 - [[felt-state-pattern]] — FSP：メンタルモデルの防衛反応構造を組織の場レベルで記述したTakeshiのオリジナル概念
 - [[david-hawkins]] — 意識レベル：分離の意識（フォース）vs 源・全体性の意識（パワー）
 - [[src-tkskkd-world-scrapbox]] — 出典元
+## note.com 関連記事
+
+- [スクフェス大阪2023 四国トラックの感想とまとめ](https://note.com/kkd/n/n18c5b69ef5de)
+- [『パタン・セオリー』訳者あとがきの未公開版を公開します](https://note.com/kkd/n/n510df7d103ad)
+- [XP祭り2022で基調講演をした報告と、いくつかのとても重要な補足について](https://note.com/kkd/n/n2896894c0192)
+- [ザ・メンタルモデル・ワークブックの読書会をはじめます](https://note.com/kkd/n/n0a49490e6b46)
+- [分離から統合に至る２つの内省アプローチ〜XPとザ・メンタルモデル](https://note.com/kkd/n/nf10c85aa29ac)

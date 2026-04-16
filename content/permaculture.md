@@ -36,3 +36,10 @@ updated: 2026-04-14
 - [[wholeness]] — 全体性：パーマカルチャーの哲学的基盤
 - [[agile]] — XPとパーマカルチャーの接続
 - [[src-tkskkd-world-scrapbox]] — 出典元
+## note.com 関連記事
+
+- [パーマカルチャーが軽視しているクリストファー・アレグザンダーの挑戦](https://note.com/kkd/n/n02722f82b94f)
+- [なんで「目的の多重性」って名前なの？](https://note.com/kkd/n/n67ec308fe3b1)
+- [アレグザンダー勉強会にむけて「私とパターン、そしてアレグザンダー」(1st Decade)](https://note.com/kkd/n/n21d9f15e8737)
+- [『パタン・セオリー』訳者あとがきの未公開版を公開します](https://note.com/kkd/n/n510df7d103ad)
+- [パタンセオリー翻訳プロジェクトの魅力と想いを書いてみた](https://note.com/kkd/n/n3933cc32af69)

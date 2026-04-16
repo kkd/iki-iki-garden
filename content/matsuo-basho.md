@@ -85,3 +85,10 @@ note記事は「自分の真実に従う恐れ」を論じている：恐怖・�
 - [[felt-state-pattern]] — FSP：風羅坊を遮る防御反応の構造と同型
 - [[src-tkskkd-world-scrapbox]] — 出典元
 - [[src-note-kkd]] — note記事「笈の小文から紐解く造化とNOO」（2024-12-28）
+## note.com 関連記事
+
+- [松尾芭蕉の笈の小文から紐解く、風羅坊、造化、そしてネイチャーオブオーダー](https://note.com/kkd/n/n7b208d257762)
+- [『パタン・セオリー』訳者あとがきの未公開版を公開します](https://note.com/kkd/n/n510df7d103ad)
+- [アレグザンダー勉強会にむけて「私とパターン、そしてアレグザンダー」(1st Decade)](https://note.com/kkd/n/n21d9f15e8737)
+- [『パタン・ランゲージ』をなんとなく聞いたことのある人向けに『パタン・セオリー』を勧める4つの理由](https://note.com/kkd/n/n425a2ba3bd2a)
+- [パーマカルチャーが軽視しているクリストファー・アレグザンダーの挑戦](https://note.com/kkd/n/n02722f82b94f)

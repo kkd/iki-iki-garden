@@ -56,3 +56,10 @@ updated: 2026-04-14
 - [[tom-brown-jr]] — 全体性の腹落ち：同じ源流の別表現
 - [[goethe]] — ゲーテ：「見ること」の質的変革という共鳴
 - [[src-tkskkd-world-scrapbox]] — 出典元
+## note.com 関連記事
+
+- [パーマカルチャーが軽視しているクリストファー・アレグザンダーの挑戦](https://note.com/kkd/n/n02722f82b94f)
+- [『パタン・セオリー』訳者あとがきの未公開版を公開します](https://note.com/kkd/n/n510df7d103ad)
+- [アレグザンダー勉強会にむけて「私とパターン、そしてアレグザンダー」(1st Decade)](https://note.com/kkd/n/n21d9f15e8737)
+- [『パタン・ランゲージ』をなんとなく聞いたことのある人向けに『パタン・セオリー』を勧める4つの理由](https://note.com/kkd/n/n425a2ba3bd2a)
+- [XP祭り2022で基調講演をした報告と、いくつかのとても重要な補足について](https://note.com/kkd/n/n2896894c0192)

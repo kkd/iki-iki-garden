@@ -138,3 +138,10 @@ Scrapboxに★★★★登録の「科学哲学の冒険」（戸田山和久）
 - [[wholeness]] — 全体性：部分最適な科学が見逃すもの
 - [[david-hawkins]] — 意識レベル：フォース的科学（測定・管理）vs パワー的実践（参与・感応）
 - [[felt-state-pattern]] — 場の全体性：組織においても同様の批判が起きうる
+## note.com 関連記事
+
+- [智慧を身体に刻み込む「我守破離」というモデル](https://note.com/kkd/n/n354d28dbdf00)
+- [「アジャイル式」健康カイゼンワークショップで皆で一歩を踏み出してみよう‼️](https://note.com/kkd/n/n9378317e5a7f)
+- [スクフェス大阪2023 四国トラックの感想とまとめ](https://note.com/kkd/n/n18c5b69ef5de)
+- [アレグザンダー勉強会にむけて「私とパターン、そしてアレグザンダー」(1st Decade)](https://note.com/kkd/n/n21d9f15e8737)
+- [Forkwellさんのイベント登壇時に回答できなかった質疑への回答の公開](https://note.com/kkd/n/nf7ee3c40599f)

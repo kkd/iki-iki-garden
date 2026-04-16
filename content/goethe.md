@@ -34,3 +34,10 @@ updated: 2026-04-14
 - [[wholeness]] — 全体性
 - [[henri-bortoft]] — ボルフト：ゲーテの科学を「意識的参与」として現代哲学で体系化した解釈者
 - [[src-tkskkd-world-scrapbox]] — 出典元
+## note.com 関連記事
+
+- [アレグザンダー勉強会にむけて「私とパターン、そしてアレグザンダー」(1st Decade)](https://note.com/kkd/n/n21d9f15e8737)
+- [『パタン・セオリー』訳者あとがきの未公開版を公開します](https://note.com/kkd/n/n510df7d103ad)
+- [パーマカルチャーが軽視しているクリストファー・アレグザンダーの挑戦](https://note.com/kkd/n/n02722f82b94f)
+- [パタンセオリー翻訳プロジェクトの魅力と想いを書いてみた](https://note.com/kkd/n/n3933cc32af69)
+- [パタン・ランゲージ事例として世界的に有名な盈進学園東野高校建設回想記の書籍化プロジェクトについて](https://note.com/kkd/n/nc39509bf6d15)

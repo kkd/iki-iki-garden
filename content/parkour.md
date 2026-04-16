@@ -79,3 +79,10 @@ from-to構造：環境への参与として身体知が統合される
 - [[david-hawkins]] — 意識レベル：パワー的実践としての身体運動
 - [[src-tkskkd-world-scrapbox]] — Scrapbox記録（Breaking the Jump, ベアフット関連42件）
 - [[src-note-kkd]] — note記事：「人体の潜在力」「トレーニングの全体最適」
+## note.com 関連記事
+
+- [パーマカルチャーが軽視しているクリストファー・アレグザンダーの挑戦](https://note.com/kkd/n/n02722f82b94f)
+- [『パタン・セオリー』訳者あとがきの未公開版を公開します](https://note.com/kkd/n/n510df7d103ad)
+- [スクフェス大阪2023 四国トラックの感想とまとめ](https://note.com/kkd/n/n18c5b69ef5de)
+- [パタンセオリー翻訳プロジェクトの魅力と想いを書いてみた](https://note.com/kkd/n/n3933cc32af69)
+- [Scrum Festa Osaka で四国トラックやります！](https://note.com/kkd/n/n89d49ed1295e)

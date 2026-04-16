@@ -46,3 +46,10 @@ NVCにおける感情は「ニーズが満たされているか否か」のシ�
 - [[mental-model]] — ザ・メンタルモデル（感情・ニーズの深層構造）
 - [[media-log]] — フィクション作品一覧
 - [[felt-state-pattern]] — FSP：NVCを組織・場レベルの力学として拡張したTakeshiのオリジナル概念
+## note.com 関連記事
+
+- [XP祭り2022で基調講演をした報告と、いくつかのとても重要な補足について](https://note.com/kkd/n/n2896894c0192)
+- [私の武装解除日記イントロダクション](https://note.com/kkd/n/nd170fda14dbb)
+- [「あり方（Being）」からはじめる変容─感情の意味と不快回避行動](https://note.com/kkd/n/n30842e91a955)
+- [スクフェス大阪2023 四国トラックの感想とまとめ](https://note.com/kkd/n/n18c5b69ef5de)
+- [『パタン・セオリー』訳者あとがきの未公開版を公開します](https://note.com/kkd/n/n510df7d103ad)

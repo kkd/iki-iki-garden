@@ -48,3 +48,10 @@ updated: 2026-04-14
 - [[agile]] — 守破離が参照される文脈
 - [[michael-polanyi]] — 「守」は暗黙知の体化プロセス。I（内面化）= 守に相当
 - [[nonaka-ikujiro]] — SECIモデルのS→I循環が守破離と構造的に対応
+## note.com 関連記事
+
+- [智慧を身体に刻み込む「我守破離」というモデル](https://note.com/kkd/n/n354d28dbdf00)
+- [分離から統合に至る２つの内省アプローチ〜XPとザ・メンタルモデル](https://note.com/kkd/n/nf10c85aa29ac)
+- [松尾芭蕉の笈の小文から紐解く、風羅坊、造化、そしてネイチャーオブオーダー](https://note.com/kkd/n/n7b208d257762)
+- [スクフェス大阪2023 四国トラックの感想とまとめ](https://note.com/kkd/n/n18c5b69ef5de)
+- [リモートワーカーの運動不足を防ぐためのウォーキングと「歩かなきゃ損」な理由](https://note.com/kkd/n/nc941ceb5fd62)

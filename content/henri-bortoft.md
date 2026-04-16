@@ -208,3 +208,10 @@ The Nature of Orderでアレグザンダーが提唱する「Unfolding（展開�
 - [[michael-polanyi]] — ポランニー：from-to構造をconscious participationの認識論的基盤として直接引用
 - [[david-hawkins]] — 意識レベル：conscious participation = パワーの認識状態
 - [[src-tkskkd-world-scrapbox]] — 出典元（書籍記録2件）
+## note.com 関連記事
+
+- [アレグザンダー勉強会にむけて「私とパターン、そしてアレグザンダー」(1st Decade)](https://note.com/kkd/n/n21d9f15e8737)
+- [パーマカルチャーが軽視しているクリストファー・アレグザンダーの挑戦](https://note.com/kkd/n/n02722f82b94f)
+- [15年ぶりに盈進学園 東野高等学校を訪問して感じたあれこれ](https://note.com/kkd/n/n7bf2996a6746)
+- [『パタン・セオリー』訳者あとがきの未公開版を公開します](https://note.com/kkd/n/n510df7d103ad)
+- [パタンセオリー翻訳プロジェクトの魅力と想いを書いてみた](https://note.com/kkd/n/n3933cc32af69)

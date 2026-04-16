@@ -52,3 +52,10 @@ Scrapboxで★★★★★評価を受けた73冊。テーマ別に整理。
 - [[permaculture]] — パーマカルチャー関連書が複数5つ星
 - [[mental-model]] — ザ・メンタルモデル詳細
 - [[nvc]] — NVC関連書籍
+## note.com 関連記事
+
+- [分離から統合に至る２つの内省アプローチ〜XPとザ・メンタルモデル](https://note.com/kkd/n/nf10c85aa29ac)
+- [『パタン・セオリー』訳者あとがきの未公開版を公開します](https://note.com/kkd/n/n510df7d103ad)
+- [ザ・メンタルモデル・ワークブックの読書会をはじめます](https://note.com/kkd/n/n0a49490e6b46)
+- [パーマカルチャーが軽視しているクリストファー・アレグザンダーの挑戦](https://note.com/kkd/n/n02722f82b94f)
+- [アイスマンを目指して1月ほど冷水シャワーを試した結果](https://note.com/kkd/n/na25dbe011594)

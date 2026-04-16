@@ -66,3 +66,10 @@ XP祭り2021（2021/9/18）で「民俗学と宮本常一が好きな人集ま�
 - [[shikoku-michi]] — 四国のみち：宮本常一が歩いた古道との接続
 - [[agile]] — アジャイル：「傍流の観察者」としての共鳴
 - [[src-tkskkd-world-scrapbox]] — 出典元
+## note.com 関連記事
+
+- [アレグザンダー勉強会にむけて「私とパターン、そしてアレグザンダー」(1st Decade)](https://note.com/kkd/n/n21d9f15e8737)
+- [スクフェス大阪2023 四国トラックの感想とまとめ](https://note.com/kkd/n/n18c5b69ef5de)
+- [XP祭り2022で基調講演をした報告と、いくつかのとても重要な補足について](https://note.com/kkd/n/n2896894c0192)
+- [智慧を身体に刻み込む「我守破離」というモデル](https://note.com/kkd/n/n354d28dbdf00)
+- [XP祭り2023で登壇し、懇親会で感じた「変わらない価値」](https://note.com/kkd/n/n3101aef1bfd8)

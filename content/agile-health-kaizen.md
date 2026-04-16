@@ -145,3 +145,10 @@ Scrapboxで複数書籍が★★★★で登録されている最重要の食の
 - [[science-wholeness-tension]] — 科学・エビデンス主義との緊張：ポジティヴヘルス・健康生成論がその応答
 - [[src-tkskkd-world-scrapbox]] — Scrapbox記録（21件の関連ページ）
 - [[src-note-kkd]] — note記事での言及・展開
+## note.com 関連記事
+
+- [アレグザンダー勉強会にむけて「私とパターン、そしてアレグザンダー」(1st Decade)](https://note.com/kkd/n/n21d9f15e8737)
+- [『パタン・セオリー』訳者あとがきの未公開版を公開します](https://note.com/kkd/n/n510df7d103ad)
+- [パタンセオリー翻訳プロジェクトの魅力と想いを書いてみた](https://note.com/kkd/n/n3933cc32af69)
+- [パーマカルチャーが軽視しているクリストファー・アレグザンダーの挑戦](https://note.com/kkd/n/n02722f82b94f)
+- [パタン・セオリーを学んで役に立ったことは？](https://note.com/kkd/n/nebcfb6171fef)
