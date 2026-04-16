@@ -43,7 +43,7 @@ Takeshi自身の整理：
 
 | 領域A | 領域B | 共通原理 |
 |---|---|---|
-| [[xp]] / TDD | [[christopher-alexander]] 構造保存変容 | コードも建築も「化すを通じて成る」 |
+| [[xp]] / TDD | [[christopher-alexander]] [[structure-preserving-transformation]] | コードも建築も「化すを通じて成る」 |
 | [[xp]] | [[mental-model]] | インテグリティ = 自分の内側をみる |
 | [[xp]] | 持続可能性 / [[circular-society]] | Sustainable Pace, Balanced |
 | [[christopher-alexander]] NOO | [[matsuo-basho]] 造化 | → [[zoka]] 東西で一致 |

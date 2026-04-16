@@ -11,7 +11,7 @@ updated: 2026-04-15
 
 ベアフットラン・ナチュラルハイジーン・フィットフォーライフ・チャイナスタディ・東洋医学・代替医療……これらの「全体性に基づく実践」を語るとき、「科学的エビデンスがない」「疑似科学だ」という強烈な批判が起きやすい。
 
-この批判の構造自体が、[[wholeness]] vs 部分最適、[[michael-polanyi]] の暗黙知 vs 形式知、[[henri-bortoft]] の本物の全体性 vs にせの全体性という根本的な認識論の対立を反映している。
+この批判の構造自体が、[[wholeness]] vs 部分最適、[[michael-polanyi]] の暗黙知 vs 形式知、[[henri-bortoft]] の本物の全体性 vs にせの全体性という根本的な認識論の対立を反映している。これは [[christopher-alexander]] の [[structure-preserving-transformation]] でいう System A（感性・生命の質）vs System B（効率・合理性）の対立と同型である。
 
 ## Takeshi自身の立ち位置
 

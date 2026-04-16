@@ -6,6 +6,7 @@
 ---
 
 ### Sources（ソース）
+- [src-small-beautiful-village](src-small-beautiful-village.md) — 「小さな美しい村」（細井久栄著、2025年2月）：盈進学園東野高校建設回想録。パタン・ランゲージ実践・利用者参加・構造保存変容・System A/B統合
 - [src-tkskkd-world-scrapbox](src-tkskkd-world-scrapbox.md) — tkskkd-worldのScrapboxエクスポート全2,836ページの概要（2026-04-14）
 - [src-pattern-theory](src-pattern-theory.md) — パタン・セオリー（ライトナー著、懸田剛訳、2024年日本語版）：15の生命特性・応用例・ポパーとの接続
 - [src-note-kkd](src-note-kkd.md) — note.com記事アーカイブ469記事（2018〜2026）。アレグザンダー・パタン・ランゲージ・ベアフットラン・野中郁次郎・FSPなど
@@ -27,9 +28,13 @@
 - [matsuo-basho](matsuo-basho.md) — 松尾芭蕉：「造化」= The Nature of Order。アレグザンダー自身が笈の小文を高く評価
 - [iida-fumihiko](iida-fumihiko.md) — 飯田史彦：生きがい研究家。「論理的なスピリチュアル」への入口。★★★★★複数
 
+### Case Studies（ケーススタディ）
+- [eishin-gakuen-higashino-high-school](eishin-gakuen-higashino-high-school.md) — 盈進学園東野高等学校：1985年開校、2万坪。パタン・ランゲージ世界最大規模実装。池・玄関道・木造体育館・利用者参加デザイン
+
 ### Concepts（概念）
 - [wholeness](wholeness.md) — 全体性：ゲーテ・アレグザンダーを貫く有機的・統合的認識論
 - [zoka](zoka.md) — 造化：芭蕉「笈の小文」=アレグザンダー The Nature of Order。東西の参与的認識論を貫く中核概念
+- [structure-preserving-transformation](structure-preserving-transformation.md) — 構造保存変容：既存構造の潜在力を活かしながら調和を高める変容。アレグザンダーの核心的思想。盈進学園東野高校での実装例
 - [shu-ha-ri](shu-ha-ri.md) — 守破離：学習段階論。通説の「順番」解釈への根本的疑問を含む
 - [ga-shu-ha-ri](ga-shu-ha-ri.md) — 我守破離：守破離の前に「我」＝我流の試行錯誤を置いた拡張モデル。フレームワーク弊害の根本解決
 - [observer-in-wholeness](observer-in-wholeness.md) — 観測者を含めた全体性：自己分離との不可分性。アレグザンダー「感情を使う」に直結。**深化中**

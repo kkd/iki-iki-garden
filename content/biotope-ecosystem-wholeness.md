@@ -101,6 +101,8 @@ NVC（非暴力コミュニケーション）の前提：
 
 - [[wholeness]] — アレグザンダーの全体性の概念
 - [[christopher-alexander]] — パターン・ランゲージとシステムデザイン
+- [[structure-preserving-transformation]] — 構造保存変容：ビオトープと同型の「既存構造を活かす」原理
+- [[eishin-gakuen-higashino-high-school]] — 盈進学園東野高校の池：ビオトープの先駆的実装例（1985年開校）
 - [[permaculture]] — パーマカルチャーと持続可能な設計
 - [[vegetable-garden]] — 野菜作り・畑：ビオトープと同時並行する「人のための生産」の軸。両者を組み合わせる試みが現在のTakeshiの中心
 - [[circular-society]] — 循環型社会：2006年からの一貫したコミット。人以外の生物との共生へ拡張するフェーズ
