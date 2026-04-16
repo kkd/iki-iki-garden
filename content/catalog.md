@@ -32,6 +32,8 @@
 - [zoka](zoka.md) — 造化：芭蕉「笈の小文」=アレグザンダー The Nature of Order。東西の参与的認識論を貫く中核概念
 - [shu-ha-ri](shu-ha-ri.md) — 守破離：学習段階論。通説の「順番」解釈への根本的疑問を含む
 - [ga-shu-ha-ri](ga-shu-ha-ri.md) — 我守破離：守破離の前に「我」＝我流の試行錯誤を置いた拡張モデル。フレームワーク弊害の根本解決
+- [observer-in-wholeness](observer-in-wholeness.md) — 観測者を含めた全体性：自己分離との不可分性。アレグザンダー「感情を使う」に直結。**深化中**
+- [existence-dignity](existence-dignity.md) — Existence Dignity / Environmental Dignity：価値ではなく尊厳を軸に、生物多様性から組織のありのまま活躍まで繋ぐ。red_finder思想背景。**深化中**
 - [permaculture](permaculture.md) — パーマカルチャー：持続可能なデザイン体系。XP/アジャイルの源流のひとつ
 - [biotope-ecosystem-wholeness](biotope-ecosystem-wholeness.md) — ビオトープ・生態系と全体性：湿地ビオトープ保全活動を通じた全体性の体験。NVC・パーマカルチャーとの接続
 - [nvc](nvc.md) — NVC（非暴力コミュニケーション）：自己愛・他者愛を基盤とするコミュニケーション手法
