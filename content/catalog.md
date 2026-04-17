@@ -8,11 +8,15 @@
 ### Sources（ソース）
 - [src-small-beautiful-village](src-small-beautiful-village.md) — 「小さな美しい村」（細井久栄著、2025年2月）：盈進学園東野高校建設回想録。パタン・ランゲージ実践・利用者参加・構造保存変容・System A/B統合
 - [src-tkskkd-world-scrapbox](src-tkskkd-world-scrapbox.md) — tkskkd-worldのScrapboxエクスポート全2,836ページの概要（2026-04-14）
+- [src-tkskkd-com](src-tkskkd-com.md) — tkskkd.com マイクロポスト1,811件（2020〜2024）。Known プラットフォーム。日々の気づき・アジャイル・全体性・体験主義・自然実践
 - [src-pattern-theory](src-pattern-theory.md) — パタン・セオリー（ライトナー著、懸田剛訳、2024年日本語版）：15の生命特性・応用例・ポパーとの接続
 - [src-note-kkd](src-note-kkd.md) — note.com記事アーカイブ469記事（2018〜2026）。アレグザンダー・パタン・ランゲージ・ベアフットラン・野中郁次郎・FSPなど
 - [src-medium-kkd](src-medium-kkd.md) — Medium @kkd 公開記事131本（2015〜2020）。四国のみち・アジャツール連載21回・TDD対談・Agile459史・題名のない対話など
 - [src-giantech-blog](src-giantech-blog.md) — giantech.jp 旧ブログ 77記事（2013〜2017）。地方アジャイル黎明期、XPE新訳、IKIGAI出自調査、減量失敗体験連作など
 - [src-slideshare-kkd](src-slideshare-kkd.md) — SlideShare プレゼン資料 110本（2004〜2021）。XP祭り2007「XP=エコロジー活動」、XP白本参考文献、パーマカルチャーとパタン・ランゲージ、NOO、メタファー思考など
+- [src-agile-pattern-language-2013](src-agile-pattern-language-2013.md) — 「Using Pattern → Generating Pattern」スライド（2013）：Gemba Pattern Community構想、ScrumPLoP 2013、パタン生成の実践論
+- [src-ideation-workshop-pattern-canvas-2013](src-ideation-workshop-pattern-canvas-2013.md) — 発想ワークショップ（2013）：パタン・キャンバス（Context/Problem/Force/Solution）の2013年版。初出は2011年
+- [src-pattern-canvases-2011](src-pattern-canvases-2011.md) — Pattern Canvases（2011/09/27）：パタン・キャンバス**最古の初出**。5つの使用モード・Force Canvas・BusinessModelingGeneration参照
 
 ### Entities（エンティティ）
 - [christopher-alexander](christopher-alexander.md) — クリストファー・アレグザンダー：建築家。パタン・ランゲージ・The Nature of Order。51ページ言及、追悼記事集を主導
@@ -49,6 +53,7 @@
 - [xp](xp.md) — eXtreme Programming（Kent Beck）：Takeshiが最も影響を受けた体系。XP=Balanced/Harmony/全体性としての再解釈、「忘れられたXPer」
 - [organization-development](organization-development.md) — 組織開発・組織の生命性：「構造の変化だけで本当に実現できる？」という問いを軸に、FSP・NVC・アレグザンダー・パーマカルチャーを接続
 - [teal-organization](teal-organization.md) — ティール組織（ラルー）：インテグラル理論・成人発達理論・スクラム・自然経営との接続。「含んで超える」と守破離の対応
+- [schumacher-small-is-beautiful](schumacher-small-is-beautiful.md) — シュマッハー「スモール・イズ・ビューティフル」（1973）：組織の適正規模・中間/適正技術・仏教経済学。時代を50年先取りした名著。アジャイル界隈の必読教養
 - [teineina-hatten](teineina-hatten.md) — ていねいな発展（マックス・ニーフ）：ニーズとサティスファイヤーの理論
 - [mental-model](mental-model.md) — ザ・メンタルモデル：痛みの分離から統合へ。★★★★★
 - [u-theory](u-theory.md) — U理論（シャーマー）：シュタイナー影響・アレグザンダーを参考文献に明示。Presencing = conscious participationの組織論版
@@ -63,6 +68,8 @@
 - [circular-society](circular-society.md) — 循環型社会・サステナビリティ：2006年「XP=持続可能性」気づきからの20年コミット。小さな循環・脱成長・サーキュラーエコノミー
 - [cross-field-principles](cross-field-principles.md) — 分野を超えて共通する原理・見えないつながり：XP×パーマカルチャー×パタン・ランゲージの3円発見から始まるwiki全体のメタ軸
 - [ikigai](ikigai.md) — IKIGAI（生きがいのベン図）：2011年Ari Bancale起源の英語圏4円ベン図の出自を辿ったTakeshiの原点調査とIKIGAI Questワークショップ
+- [multipotentialite](multipotentialite.md) — マルチ・ポテンシャライト：複数分野を渡り歩く特性。Takeshiのnote最大バズ記事（2020、1000いいね）。器用貧乏の解体・IKIGAIとの接続
+- [dekiru-kataru-wakaru](dekiru-kataru-wakaru.md) — できる・かたる・わかる の関係仮説：身体知と言語の統合が「わかる」を生む。SECIモデル批判・インナーゲームとの接続（2019）
 
 ### Analyses（分析）
 - [five-star-books](five-star-books.md) — 5つ星書籍73冊の一覧。テーマ別に整理

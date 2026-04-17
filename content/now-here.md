@@ -3,6 +3,11 @@ title: いまここ（Now-Here）
 tags: [concept, 認識論, 体験, 全体性, 瞑想, 身体知]
 sources: [src-tkskkd-world-scrapbox, src-note-kkd]
 updated: 2026-04-17
+note_articles:
+  - https://note.com/kkd/n/n778155fea18e
+  - https://note.com/kkd/n/n8de50fd77e58
+  - https://note.com/kkd/n/ncbb6fb7d2fe3
+  - https://note.com/kkd/n/n567cdfae505c
 ---
 
 # いまここ（Now-Here）
@@ -150,6 +155,18 @@ updated: 2026-04-17
 3. **環境** — 足元の石、周囲の景色、風、温度に注意を向ける
 
 これら3つへの注意を循環させることで、思考が入り込む隙間をなくす。
+
+#### note.com 関連記事
+
+**UTMF 100マイル完走記（2023）** — 「思考がぐるぐる回り始めると、心はどんどん不安や諦める理由を生み出し続ける。過程に注力するとは、心が身体を止める余裕を与えないことであり、**いまここに集中させることだ**」
+
+- [ULTRA-TRAIL Mt.FUJI 2023〜はじめての100マイルレース完走記(1) 挫折を乗り越えるために](https://note.com/kkd/n/ncbb6fb7d2fe3)
+- [ULTRA-TRAIL Mt.FUJI 2023〜はじめての100マイルレース完走記(2) 遂にスタート！しかし...](https://note.com/kkd/n/n8de50fd77e58)
+- [ULTRA-TRAIL Mt.FUJI 2023〜はじめての100マイルレース完走記(3) まさかの復活そして感謝と共に...](https://note.com/kkd/n/n778155fea18e) ← **いまここ・思考が暴れる記述あり**
+
+**走りながら気づいた内省** — レース中に「全力を出して失敗するくらいなら言い訳を作っておこう」という無意識の防衛構造に気づき、衝撃で立ち止まりそうになった体験。走ることがいまここへの強制的な没入を作り、内省を引き出した例。
+
+- [僕は全力をだすわけにはいかないんです！だって...](https://note.com/kkd/n/n567cdfae505c)
 
 ### 5. 日常の活動の中で
 

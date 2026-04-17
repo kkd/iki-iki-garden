@@ -1,7 +1,7 @@
 ---
 title: 変更履歴
 tags: [meta, changes]
-updated: 2026-04-16
+updated: 2026-04-17
 ---
 
 # 変更履歴
@@ -9,6 +9,27 @@ updated: 2026-04-16
 この庭で何が追加・変更されたかの記録。訪問者向けの要約版（運用ログそのものではなく、ビジターの関心に絞った整理）。
 
 新しい順で並べています。
+
+---
+
+## 2026-04-17
+
+### 📚 新しい一次資料の取り込み
+
+- **[[src-pattern-canvases-2011]]** ── Pattern Canvases（2011/09/27）：**パタン・キャンバスの最古の初出を確定**。5つの使用モード・Force Canvas を含む体系的ツール群。SlideShare のファイル名と内容の不一致により埋もれていた資料
+- **[[src-agile-pattern-language-2013]]** ── 「Using Pattern → Generating Pattern」スライド（2013）：現場からパタンを生成する Gemba Pattern Community 構想
+- **[[src-ideation-workshop-pattern-canvas-2013]]** ── 発想ワークショップ（2013）：パタン・キャンバスの Context/Problem/Force/Solution 構成の実践版
+- **[[src-tkskkd-com]]** ── tkskkd.com マイクロポスト 1,811件（2020〜2024）
+
+### 🆕 新しい概念ページ
+
+- [[dekiru-kataru-wakaru]] ── できる・かたる・わかるの関係仮説：身体知と言語の統合が「わかる」を生む
+- [[multipotentialite]] ── マルチ・ポテンシャライト：複数分野を渡り歩く特性。note最大バズ記事（2020、1000いいね）
+- [[schumacher-small-is-beautiful]] ── シュマッハー「スモール・イズ・ビューティフル」：組織の適正規模・仏教経済学。時代を50年先取りした名著
+
+### 🔧 細部
+
+- [[ga-shu-ha-ri]] に2011年版パタン・キャンバス（初出）への参照を追加
 
 ---
 
