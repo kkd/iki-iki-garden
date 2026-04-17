@@ -40,3 +40,8 @@ updated: 2026-04-15
 - [[permaculture]] — パーマカルチャーとパタン・セオリーの接続（4章）
 - [[science-wholeness-tension]] — ポパーとパタン・セオリーの接続（5章）
 - [[organization-development]] — 対話の理論・社会運動へのパタン応用（4章）
+
+## 購入
+
+- [Amazon: パタン・セオリー](https://amzn.asia/d/0gpxcGby) — Kindle版・紙版
+- [公式サイト: Pattern Theory Japan](https://www.patterntheory.jp/)

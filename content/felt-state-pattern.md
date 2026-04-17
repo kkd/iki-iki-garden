@@ -69,6 +69,8 @@ FSPはこのwikiの「全体性」クラスターと「実践」クラスター�
 
 ## 関連ページ
 
+- [[self-separation]] — 自己分離：FSPの個人レベルでの原因
+- [[participatory-knowing-complementarity]] — 参与的認識の相互補完：FSPで記述可能な場の感応状態
 - [[david-hawkins]] — 意識レベル：Armor=フォース、感応=パワーの対応
 - [[nvc]] — 発案の直接的源泉
 - [[mental-model]] — 発案の直接的源泉
@@ -76,6 +78,7 @@ FSPはこのwikiの「全体性」クラスターと「実践」クラスター�
 - [[christopher-alexander]] — 生きた場の構造との接続
 - [[wholeness]] — 全体性：FSPが実現しようとする状態
 - [[henri-bortoft]] — 参与的認識：感応状態そのもの
+- [[observer-in-wholeness]] — 観測者を含めた全体性：FSPは組織版の観測者込み全体性
 - [[agile-health-kaizen]] — 「しなければならない」→「ありたい」という移行：FSPのArmorを脱する実践書
 - [[organization-development]] — 組織開発：「構造の変化だけでは変わらない」の理論的根拠としてFSPが位置づけられる
 - [[src-note-kkd]] — 発案の経緯を記録した記事

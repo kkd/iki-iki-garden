@@ -81,7 +81,7 @@ status: 深化中 ── 今後丁寧に言語化していきたい領域
 
 ## 自己分離との不可分性
 
-観測者が全体の一部であることを自覚するには、**観測者自身の内的分離（自己分離）を解く** 必要がある。[[mental-model]]（ザ・メンタルモデル）や [[felt-state-pattern]]（FSP）が扱っている領域：
+観測者が全体の一部であることを自覚するには、**観測者自身の内的分離（自己分離）を解く** 必要がある。[[self-separation]]（自己分離）、[[mental-model]]（ザ・メンタルモデル）、[[felt-state-pattern]]（FSP）が扱っている領域：
 
 - 自己分離している人は、自分の感情・ニーズ・痛みに触れられない
 - 感情に触れられない人は、アレグザンダーの「感情を使う」ができない
@@ -98,6 +98,7 @@ status: 深化中 ── 今後丁寧に言語化していきたい領域
 | ページ | 観測者込み全体性との関係 |
 |---|---|
 | [[wholeness]] | 全体性の基礎概念。本ページはその深化 |
+| [[self-separation]] | 自己分離：観測者込み全体性が前提とする課題領域 |
 | [[christopher-alexander]] | 「感情を使う」「mirror-of-the-self」の起点 |
 | [[henri-bortoft]] | 本物の全体性 vs にせの全体性の哲学的言語 |
 | [[goethe]] | 参与的認識の源流 |
@@ -121,8 +122,10 @@ status: 深化中 ── 今後丁寧に言語化していきたい領域
 ## 関連ページ
 
 - [[wholeness]] — 全体性：本ページの土台
+- [[participatory-knowing-complementarity]] — 参与的認識の相互補完：専門家と利用者の観測者込み統合
 - [[christopher-alexander]] — 「感情を使う」方法論の起点
 - [[henri-bortoft]] — 本物の全体性 vs にせの全体性
+- [[structure-preserving-transformation]] — 構造保存変容：観測者込み全体性の実践論
 - [[mental-model]] — 自己分離の解消
 - [[felt-state-pattern]] — 場の力学（組織版の観測者込み全体性）
 - [[teal-organization]] — 組織のWholeness

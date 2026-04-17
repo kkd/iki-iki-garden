@@ -128,6 +128,8 @@ The Nature of Orderの中心概念。世界はセンター（中心性）の重�
 ## 関連ページ
 
 - [[wholeness]] — 全体性：アレグザンダーの哲学的中核
+- [[participatory-knowing-complementarity]] — 参与的認識の相互補完：専門家と利用者の感知の統合
+- [[structure-preserving-transformation]] — 構造保存変容：「土地の声を聞く」実装論
 - [[oka-kiyoshi]] — 岡潔：feeling=情緒という東西接続
 - [[matsuo-basho]] — 芭蕉：造化=The Nature of Order
 - [[zoka]] — 造化：アレグザンダーの核心概念と東西接続
@@ -137,6 +139,7 @@ The Nature of Orderの中心概念。世界はセンター（中心性）の重�
 - [[agile]] — パタン・ランゲージ→GoF→XP→アジャイルの系譜
 - [[mental-model]] — 生命の強度と「分離から統合へ」の接続仮説
 - [[goethe]] — ゲーテ：参与的認識論という同じ地平
+- [[michael-polanyi]] — ポランニー：参与的認識（from-to構造）の理論的基礎
 - [[henri-bortoft]] — ボルフト：同じ問いの哲学的言語化、本物/にせの全体性との対比
 - [[u-theory]] — U理論がアレグザンダー著作を参考文献に明示（Timeless, APL, NOO Vol.4）
 - [[agile-health-kaizen]] — 「アジャイル式」健康カイゼンガイド：「構造保存変容なんだよね」とTakeshi自身が明言した著書

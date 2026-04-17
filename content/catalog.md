@@ -35,9 +35,13 @@
 - [wholeness](wholeness.md) — 全体性：ゲーテ・アレグザンダーを貫く有機的・統合的認識論
 - [zoka](zoka.md) — 造化：芭蕉「笈の小文」=アレグザンダー The Nature of Order。東西の参与的認識論を貫く中核概念
 - [structure-preserving-transformation](structure-preserving-transformation.md) — 構造保存変容：既存構造の潜在力を活かしながら調和を高める変容。アレグザンダーの核心的思想。盈進学園東野高校での実装例
+- [system-a-b-integration](system-a-b-integration.md) — System A/B の統合：感性と合理性の対立を超える統合。度合いではなく「AもB も」。おしん会議モデル。簡単ではない道
+- [participatory-knowing-complementarity](participatory-knowing-complementarity.md) — 参与的認識の相互補完：専門家（土地の声）と利用者（生活ニーズ）の参与的認識の相互補完。東野高校での実装例
 - [shu-ha-ri](shu-ha-ri.md) — 守破離：学習段階論。通説の「順番」解釈への根本的疑問を含む
 - [ga-shu-ha-ri](ga-shu-ha-ri.md) — 我守破離：守破離の前に「我」＝我流の試行錯誤を置いた拡張モデル。フレームワーク弊害の根本解決
 - [observer-in-wholeness](observer-in-wholeness.md) — 観測者を含めた全体性：自己分離との不可分性。アレグザンダー「感情を使う」に直結。**深化中**
+- [self-separation](self-separation.md) — 自己分離（自己疎外）：痛みの回避から始まる防衛メカニズム。全体性・NVC・メンタルモデルと不可分
+- [now-here](now-here.md) — いまここ（Now-Here）：フロー状態での瞬間的な一体感。自我の消失による全体性への直接的な道
 - [permaculture](permaculture.md) — パーマカルチャー：持続可能なデザイン体系。XP/アジャイルの源流のひとつ
 - [biotope-ecosystem-wholeness](biotope-ecosystem-wholeness.md) — ビオトープ・生態系と全体性：湿地ビオトープ保全活動を通じた全体性の体験。NVC・パーマカルチャーとの接続
 - [nvc](nvc.md) — NVC（非暴力コミュニケーション）：自己愛・他者愛を基盤とするコミュニケーション手法

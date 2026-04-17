@@ -200,9 +200,11 @@ The Nature of Orderでアレグザンダーが提唱する「Unfolding（展開�
 
 ## 関連ページ
 
+- [[participatory-knowing-complementarity]] — 参与的認識の相互補完：conscious participationの実践的統合
 - [[goethe]] — ゲーテ：ボルフトはゲーテの哲学的解釈者
 - [[wholeness]] — 全体性：にせ/本物の全体性の区別が直結
 - [[christopher-alexander]] — アレグザンダー：同じ問いの建築版
+- [[structure-preserving-transformation]] — 構造保存変容：ボルフトの哲学的言語化
 - [[oka-kiyoshi]] — 岡潔：情緒=feelingという参与的認識
 - [[matsuo-basho]] — 芭蕉：造化への参与
 - [[michael-polanyi]] — ポランニー：from-to構造をconscious participationの認識論的基盤として直接引用

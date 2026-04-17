@@ -93,6 +93,8 @@ Scrapboxには **「Breaking the Jump」**（Julie Angel著、はしがきChrist
 
 ## 関連ページ
 
+- [[participatory-knowing-complementarity]] — 参与的認識の相互補完：from-to構造の実践的応用
+- [[christopher-alexander]] — アレグザンダー：構造保存変容の実装論
 - [[henri-bortoft]] — from-to構造を「conscious participation」として発展させた
 - [[nonaka-ikujiro]] — SECIモデルの暗黙知概念の直接的源泉
 - [[u-theory]] — presencingの認識論的背景として暗黙知と共鳴

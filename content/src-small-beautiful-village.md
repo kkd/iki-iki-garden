@@ -46,7 +46,7 @@ updated: 2026-04-17
   - 結果：両者の対立を超えた協力で完成
 - 未発表原稿『Large-scale building production: Unification of the Human System and Physical System』でアレグザンダーは指摘：System A と System B は対立ではなく、**補完・統合されるべき**
 
-### 4. 利用者参加型設計の実態
+### 4. 利用者参加型設計の実態：参与的認識の相互補完
 
 - 真の利用者参加には「専門家による支援」が不可欠
   - 専門家の提案が参加を阻害することもある
@@ -55,6 +55,10 @@ updated: 2026-04-17
 - グループ・プライバシー：高校生の雑談を尊重
   - カフェテリアのブース設計 → 「おしゃべりの場」確保
   - 高校教育の重要な一環としての「仲間内での切磋琢磨」
+- **参与的認識の相互補完** ([[participatory-knowing-complementarity]]参照)
+  - 専門家（アレグザンダー）の「土地の声を聞く」参与的認識
+  - 利用者（教職員）の「生活ニーズを言語化する」参与的認識
+  - 両者が重なり合い、相互に補完される設計プロセス
 
 ### 5. 池とビオトープ
 
@@ -76,8 +80,12 @@ updated: 2026-04-17
 ## 関連ページ
 
 - [[christopher-alexander]] — 設計理論の源流
+- [[participatory-knowing-complementarity]] — 参与的認識の相互補完：専門家と利用者の関係
+- [[structure-preserving-transformation]] — 構造保存変容：土地の声を聞く方法論
+- [[system-a-b-integration]] — System A/B の統合：感性と合理性の統合
 - [[biotope-ecosystem-wholeness]] — 池と生態系の保全
 - [[cross-field-principles]] — パタン・ランゲージの原理
+- [[pattern-language]] — パタン・ランゲージの実践
 - [[wholeness]] — 全体性の実現
 - [[science-wholeness-tension]] — 感性と科学の対立
 - [[teineina-hatten]] — 丁寧な発展（東野高校の実装例）
@@ -89,4 +97,13 @@ updated: 2026-04-17
 > キャンパスは今、呼吸を開始した。
 
 > パタン・ランゲージとは、利用者ひとりひとりの「心の内にある本音、現実化したい理想のキャンパス像」であり、それらが言葉として表現されたものであった。
+
+## 購入
+
+- [Amazon: 小さな美しい村](https://amzn.asia/d/04LN70XF) — 紙版
+
+## 関連 note.com 記事
+
+- [パタン・ランゲージ事例として世界的に有名な盈進学園東野高校建設回想記の書籍化プロジェクトについて](https://note.com/kkd/n/nc39509bf6d15)
+- [5月31日の『小さな美しい村』出版記念イベントを開催しました](https://note.com/kkd/n/ne54d17735364)
 
