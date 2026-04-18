@@ -187,3 +187,8 @@ NVC・メンタルモデル   ← 個人の内的変容
 - [パタンセオリー翻訳プロジェクトの魅力と想いを書いてみた](https://note.com/kkd/n/n3933cc32af69)
 - [スクフェス大阪2023 四国トラックの感想とまとめ](https://note.com/kkd/n/n18c5b69ef5de)
 - [Scrum Festa Osaka で四国トラックやります！](https://note.com/kkd/n/n89d49ed1295e)
+## 関連 docswell スライド
+
+- [「生き生きとした組織」を「生命展開の原則」から考えてみる](https://docswell.com/s/tkskkd/5YD3X4-organizational_livingness_20250617)（2025/06/17 Management30）
+- [スクラムマスターの自己理解から始めるチームの生命構造](https://docswell.com/s/tkskkd/ZNPGW5-scrumfesta_sendai_2022_start_understanding_yourself)（スクフェス仙台2022）
+

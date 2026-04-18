@@ -30,6 +30,17 @@ updated: 2026-04-18
 ### 📚 新しい一次資料の取り込み
 
 - 著作情報を Amazon HTML から一括取得し [[works]] に反映（著書8冊・翻訳2冊・監修1冊・共著5冊）
+- **[[src-battle-unpublished-chapter]]** ── Christopher Alexander 未発表草稿（2010年）：amalgam（融合体）の概念・成功4要因・80%満足の自己評価。出典：Howard Davis編 *Early and Unpublished Writings of Christopher Alexander*
+- **Docswell スライド14本**を [[works]] に一覧化し、関連ページ（[[pattern-language]] / [[src-small-beautiful-village]] / [[wholeness]] / [[zoka]] / [[organization-development]] / [[agile-health-kaizen]]）に各スライドへのリンクを追加
+
+### 🆕 新しいページ
+
+- [[hosoi-hisae]] ── 細井久栄：東野高校施主側責任者。「細井さんのここがすごい」（自分軸・権限移譲・勇気）、Alexander の Battle Ch.14 引用、「同じ土俵で戦わない」戦略を含む。System A/B amalgam 実現の橋渡し役として位置づけ
+
+### ✏️ 既存ページ更新
+
+- [[system-a-b-integration]] ── 止揚・超越法との比較セクション追加、統合の難しさ§3「現代社会はBの価値観が圧倒的主体」追加（細井氏の橋渡し役論含む）、amalgam成功要因に第5項（橋渡し個人）補足
+- [[structure-preserving-transformation]] ── 例2を「玄関道の塀」から「土地の起伏を活かしたキャンパス設計」に差し替え（原典引用付き）
 
 ---
 

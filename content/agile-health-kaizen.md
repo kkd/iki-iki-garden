@@ -193,3 +193,8 @@ Scrapboxで複数書籍が★★★★で登録されている最重要の食の
 - [パタンセオリー翻訳プロジェクトの魅力と想いを書いてみた](https://note.com/kkd/n/n3933cc32af69)
 - [パーマカルチャーが軽視しているクリストファー・アレグザンダーの挑戦](https://note.com/kkd/n/n02722f82b94f)
 - [パタン・セオリーを学んで役に立ったことは？](https://note.com/kkd/n/nebcfb6171fef)
+## 関連 docswell スライド
+
+- [アジャイル式健康カイゼンに学ぶチームの成長のコツ](https://docswell.com/s/tkskkd/KEVL7Z-2022-06-18-160943)（スクフェス大阪2022 四国トラック）
+- [アジャイル式健康カイゼンガイド発売記念著者座談会](https://docswell.com/s/tkskkd/Z686E5-2022-06-22-agile-health-kaizen-talk)（2022/06/25 座談会）
+

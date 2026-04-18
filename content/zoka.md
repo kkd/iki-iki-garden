@@ -4,7 +4,6 @@ tags: [concept, 全体性, 参与的認識論, アレグザンダー, 芭蕉]
 sources: [src-tkskkd-world-scrapbox, src-note-kkd]
 updated: 2026-04-16
 ---
-
 # 造化（ぞうか）
 
 Takeshiのwikiにおける中核概念のひとつ。**[[matsuo-basho]] 芭蕉が「笈の小文序章」で用いた「造化」という日本語が、[[christopher-alexander]] アレグザンダーの "The Nature of Order" と同一の概念を指している** ── という東西接続の気づきが、[[wholeness]]（全体性）クラスター全体を貫く軸になっている。
@@ -103,3 +102,7 @@ Takeshiのwikiにおける中核概念のひとつ。**[[matsuo-basho]] 芭蕉�
 - [[shu-ha-ri]] — 守破離：「其貫道する物は一なり」との共鳴
 - [[wholeness-health]] — 「自然の意に沿った食べ方」への展開
 - [[src-note-kkd]] — note記事「笈の小文から紐解く造化とNOO」（2024-12-28）
+## 関連 docswell スライド
+
+- [「生き生きとした組織」を「生命展開の原則」から考えてみる](https://docswell.com/s/tkskkd/5YD3X4-organizational_livingness_20250617)（2025/06/17 Management30）
+

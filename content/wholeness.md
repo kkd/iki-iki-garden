@@ -91,3 +91,8 @@ updated: 2026-04-16
 - [『パタン・セオリー』訳者あとがきの未公開版を公開します](https://note.com/kkd/n/n510df7d103ad)
 - [パタンセオリー翻訳プロジェクトの魅力と想いを書いてみた](https://note.com/kkd/n/n3933cc32af69)
 - [XP祭り2022で基調講演をした報告と、いくつかのとても重要な補足について](https://note.com/kkd/n/n2896894c0192)
+## 関連 docswell スライド
+
+- [人間中心の先へ〜アジャイルを25年見続けてきた僕が目指すこれからの未来](https://docswell.com/s/tkskkd/5829JP-beyond_people_centric)（AgileJapan2024 愛媛サテライト）
+- [XPの旅〜そして全体性へ〜XP祭り2022年基調講演](https://docswell.com/s/tkskkd/5MN4XZ-journey-of-xp-xpjug2022)（XP祭り2022 基調講演）
+

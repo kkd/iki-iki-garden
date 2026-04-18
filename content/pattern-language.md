@@ -52,6 +52,16 @@ Context / Problem / Force / Solution という構成のパタン記述ツール�
 
 ---
 
+## Docswell 発表資料
+
+| 年 | タイトル | イベント |
+|---|---|---|
+| 2022 | [XPの旅〜そして全体性へ〜XP祭り2022年基調講演](https://docswell.com/s/tkskkd/5MN4XZ-journey-of-xp-xpjug2022) | XP祭り2022 基調講演 |
+| 2025 | [40年前のパタン・ランゲージ事例から学ぶ！AI時代の「生き生きとしたプロダクト」の作り方](https://docswell.com/s/tkskkd/Z1RNW2-2025-04-30-the-small-beautiful-village) | 豆寄席2025 |
+| 2025 | [『小さな美しい村』の紹介（Agile Tour Yokohama 2025）](https://docswell.com/s/tkskkd/5EYDYG-the-small-beautiful-village-intro-20251101) | Agile Tour Yokohama 2025 |
+
+---
+
 ## note.com 関連記事
 
 ### パタン・ランゲージとは何か・個人史

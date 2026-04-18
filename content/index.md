@@ -10,6 +10,10 @@ updated: 2026-04-16
 
 Scrapbox・note・Medium・giantech.jp・SlideShare・対談・プレゼン資料などに分散した25年分の思考と実践と発見の破片を、リンクで結び直し、**分野を超えて共通する原理** を腹落ちできる形に整えることを目指しています。
 
+文章は対話やソースを通じてClaude Codeni生成してもらい、懸田がレビューあるいはリライトしていますが、すべてをレビューしきれておらず、おかしな表現があるかもしれません。直しながら改訂します。
+
+ソースから全てをページ化しているわけではないので、徐々に追加・更新していきます。
+
 ---
 
 ## はじめての方へ ── まずここから
@@ -18,11 +22,15 @@ Scrapbox・note・Medium・giantech.jp・SlideShare・対談・プレゼン資�
 
 ### もし「XPやアジャイル」から来たなら
 - [[xp]] ── **Kent Beck=感性豊かなエンジニア** として捉え直すXP。Balanced / Harmony / 持続可能性 / TDD=生命の働きというTakeshi独自の再解釈
+- [[scrum]] ── 初期から見続けてきたがゆえの批判を含む
 - [[cross-field-principles]] ── **XP × パーマカルチャー × パタン・ランゲージ** の3つの円の発見。wiki全体を貫くメタ軸
 - [[ga-shu-ha-ri]] ── 守破離の前に「我」を置いた、**フレームワーク弊害の根本解決モデル**
 
 ### もし「アレグザンダー・パタン・ランゲージ」から来たなら
 - [[christopher-alexander]] ── 生涯の思考を変えた建築家
+- [[structure-preserving-transformation]] ── 全体性を生み出す生成プロセス
+- [[pattern-language]] ── もうすぐ50年目を迎える分野を超えた原理
+- [[eishin-gakuen-higashino-high-school]] ── パタン・ランゲージの世界最大事例〜埼玉県入間市の盈進学園東野高等学校
 - [[zoka]] ── 芭蕉の「造化」= The Nature of Order という東西接続
 - [[wholeness]] ── 全体性：庭の背骨
 
@@ -39,10 +47,13 @@ Scrapbox・note・Medium・giantech.jp・SlideShare・対談・プレゼン資�
 - [[parkour]] ── Méthode Naturelle：身体本来性の回復
 
 ### もし「組織・コミュニケーション」から来たなら
-- [[felt-state-pattern]] ── **FSP**：Takeshiオリジナル概念。場の力学のパタン・ランゲージ
 - [[nvc]] ── NVC：自己愛・他者愛を基盤とするコミュニケーション
-- [[mental-model]] ── ザ・メンタルモデル：痛みの分離から統合へ
 - [[teal-organization]] ── ティール組織：「構造だけでは変わらない」
+- [[felt-state-pattern]] ── **FSP**：Takeshiオリジナル概念。場の力学のパタン・ランゲージ
+
+### もし「内的世界」から来たなら
+- [[mental-model]] ── ザ・メンタルモデル：痛みの分離から統合へ
+- [[self-separation]] ── 自己分離、一人ひとりが向き合う内的世界の分離構造
 
 ### もし「哲学・認識論」から来たなら
 - [[henri-bortoft]] / [[goethe]] / [[michael-polanyi]] ── 参与的認識論の理論的裏付け

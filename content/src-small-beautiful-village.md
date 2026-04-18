@@ -17,6 +17,10 @@ updated: 2026-04-17
 
 本書は、1978年から1985年にかけて実現された東野高等学校キャンパス建設プロジェクトを、施主責任者の立場から記録した回想録。クリストファー・アレグザンダーの「パタン・ランゲージ」と「利用者参加の原理」を世界最大規模で実装した事例。建築設計だけでなく、感性と合理主義の対立を超える統合、組織間の葛藤と合意形成、職人精神の現在的意味を問う記録。
 
+## 購入
+
+- [Amazon: 小さな美しい村](https://amzn.asia/d/04LN70XF) — 紙版
+
 ## 要点
 
 ### 1. パタン・ランゲージの実践（Project Language）
@@ -29,7 +33,7 @@ updated: 2026-04-17
   - 自信を持つための仕組み
   - 真のニーズを自覚させる問いかけ
 
-### 2. 構造保存変容（Structure-Preserving Transformation）
+### 2. 構造保存変容（[[structure-preserving-transformation|Structure-Preserving Transformation]]）
 
 - 敷地は茶畑（傾斜地・起伏あり）→ 起伏を「活かす」
 - 雨で水たまりになる窪地 → 「なるべくしてなった池」として実現
@@ -79,6 +83,7 @@ updated: 2026-04-17
 
 ## 関連ページ
 
+- [[hosoi-hisae]] — 細井久栄：本書著者・amalgam実現の橋渡し役
 - [[christopher-alexander]] — 設計理論の源流
 - [[participatory-knowing-complementarity]] — 参与的認識の相互補完：専門家と利用者の関係
 - [[structure-preserving-transformation]] — 構造保存変容：土地の声を聞く方法論
@@ -98,12 +103,14 @@ updated: 2026-04-17
 
 > パタン・ランゲージとは、利用者ひとりひとりの「心の内にある本音、現実化したい理想のキャンパス像」であり、それらが言葉として表現されたものであった。
 
-## 購入
-
-- [Amazon: 小さな美しい村](https://amzn.asia/d/04LN70XF) — 紙版
-
 ## 関連 note.com 記事
 
 - [パタン・ランゲージ事例として世界的に有名な盈進学園東野高校建設回想記の書籍化プロジェクトについて](https://note.com/kkd/n/nc39509bf6d15)
 - [5月31日の『小さな美しい村』出版記念イベントを開催しました](https://note.com/kkd/n/ne54d17735364)
+## 関連 docswell スライド
+
+- [40年前のパタン・ランゲージ事例から学ぶ！AI時代の「生き生きとしたプロダクト」の作り方](https://docswell.com/s/tkskkd/Z1RNW2-2025-04-30-the-small-beautiful-village)（豆寄席2025/04/30）
+- [小さな美しい村出版記念イベント　イントロダクション](https://docswell.com/s/tkskkd/K1RGPV-abeautifulsmallvillage_20250531)（出版記念2025/05/31）
+- [『小さな美しい村』の紹介（Agile Tour Yokohama 2025）](https://docswell.com/s/tkskkd/5EYDYG-the-small-beautiful-village-intro-20251101)（Agile Tour Yokohama 2025）
+- [アジャイル、地方コミュニティ、小さな美しい村、人間の役割](https://docswell.com/s/tkskkd/Z44D6W-2026-02-21-scrum-festa-morioka-day2)（スクフェス盛岡2026 DAY2 基調講演）
 

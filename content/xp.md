@@ -4,7 +4,6 @@ tags: [concept, ソフトウェア開発, アジャイル, Kent Beck, 全体性]
 sources: [src-tkskkd-world-scrapbox, src-note-kkd, src-medium-kkd, src-giantech-blog]
 updated: 2026-04-16
 ---
-
 # eXtreme Programming（XP）
 
 Kent Beckが提唱したソフトウェア開発の方法論。1999年『eXtreme Programming Explained（XPE・白本）』で世に出た。[[agile]] のオリジンの一つ。Takeshiが最も深く影響を受けた体系であり、Kent Beckを「感性豊かなエンジニア」として尊敬してきた。XPとの出会いは2000年前後（2024年時点で24年前）、ruby-mlでのxUnitとの出会いに端を発する。

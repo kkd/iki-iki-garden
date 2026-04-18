@@ -9,6 +9,7 @@
 - [works](works.md) — 著作一覧（懸田剛）：著書・翻訳・監修の全書籍リスト
 
 ### Sources（ソース）
+- [src-battle-unpublished-chapter](src-battle-unpublished-chapter.md) — "Battle"未収録章（Alexander, 2010）：System A/B amalgam構想。東野高校成功の4要因・Mixed contract・80%満足の自己評価
 - [src-small-beautiful-village](src-small-beautiful-village.md) — 「小さな美しい村」（細井久栄著、2025年2月）：盈進学園東野高校建設回想録。パタン・ランゲージ実践・利用者参加・構造保存変容・System A/B統合
 - [src-tkskkd-world-scrapbox](src-tkskkd-world-scrapbox.md) — tkskkd-worldのScrapboxエクスポート全2,836ページの概要（2026-04-14）
 - [src-tkskkd-com](src-tkskkd-com.md) — tkskkd.com マイクロポスト1,811件（2020〜2024）。Known プラットフォーム。日々の気づき・アジャイル・全体性・体験主義・自然実践
@@ -23,6 +24,7 @@
 
 ### Entities（エンティティ）
 - [christopher-alexander](christopher-alexander.md) — クリストファー・アレグザンダー：建築家。パタン・ランゲージ・The Nature of Order。51ページ言及、追悼記事集を主導
+- [hosoi-hisae](hosoi-hisae.md) — 細井久栄：東野高校施主側責任者・「小さな美しい村」著者。System A/B amalgam実現の橋渡し役
 - [henri-bortoft](henri-bortoft.md) — ヘンリー・ボルフト：ゲーテの科学を「意識的参与」として体系化。にせ/本物の全体性の区別
 - [michael-polanyi](michael-polanyi.md) — マイケル・ポランニー：暗黙知・from-to構造。「語れることより多くを知っている」。ボルフト・野中の認識論的源泉
 - [david-hawkins](david-hawkins.md) — デヴィッド・ホーキンズ：意識のマップ・パワーvsフォース。wiki全体を貫く「意識の縦軸」

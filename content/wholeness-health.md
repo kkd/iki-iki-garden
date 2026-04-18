@@ -4,7 +4,6 @@ tags: [concept, 健康, 身体性, 全体性, 食事, 実践]
 sources: [src-tkskkd-world-scrapbox, src-note-kkd, src-medium-kkd, src-giantech-blog]
 updated: 2026-04-16
 ---
-
 # 健康の全体論
 
 「健康」を部分的・静的・管理的に捉える近代医療のアプローチに対して、**全体・動的・生成的**に捉え直す思想と実践の集成。
