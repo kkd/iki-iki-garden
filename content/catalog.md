@@ -41,6 +41,7 @@
 - [eishin-gakuen-higashino-high-school](eishin-gakuen-higashino-high-school.md) — 盈進学園東野高等学校：1985年開校、2万坪。パタン・ランゲージ世界最大規模実装。池・玄関道・木造体育館・利用者参加デザイン
 
 ### Concepts（概念）
+- [pattern-language](pattern-language.md) — パタン・ランゲージ：アレグザンダー発。建築→ソフトウェア→組織・農・教育へと分野を超えて応用される設計言語
 - [wholeness](wholeness.md) — 全体性：ゲーテ・アレグザンダーを貫く有機的・統合的認識論
 - [zoka](zoka.md) — 造化：芭蕉「笈の小文」=アレグザンダー The Nature of Order。東西の参与的認識論を貫く中核概念
 - [structure-preserving-transformation](structure-preserving-transformation.md) — 構造保存変容：既存構造の潜在力を活かしながら調和を高める変容。アレグザンダーの核心的思想。盈進学園東野高校での実装例

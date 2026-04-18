@@ -55,7 +55,7 @@ updated: 2026-04-16
 - [[oka-kiyoshi]] — 岡潔：情緒=feeling。東西の参与的認識の接続
 - [[iida-fumihiko]] — 飯田史彦：ワンネス・全体性としての生きがい論
 - [[miyamoto-tsuneichi]] — 宮本常一：身体で土地を読む参与的認識
-- [[tagame-gengoro]] — タガメ：生態系への参与の象徴
+- [[tagame]] — タガメ：生態系への参与の象徴
 - [[permaculture]] — 持続可能なデザインの基盤にある全体論的思考
 - [[shu-ha-ri]] — 学習と成長における全体性
 

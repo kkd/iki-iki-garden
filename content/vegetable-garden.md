@@ -191,7 +191,7 @@ Takeshi自身の言葉による移行の整理：
 - [[wholeness-health]] — 「自然の意に沿った食べ方」
 - [[zoka]] — 造化に従う：自然農の認識論的基盤
 - [[miyamoto-tsuneichi]] — 「田や畑に何が植えられているか、育ちが良いかわるいか」を見る眼
-- [[tagame-gengoro]] / [[biotope-ecosystem-wholeness]] — 耕作放棄水田で共に生きる水生昆虫
+- [[aquatic-insects]] / [[biotope-ecosystem-wholeness]] — 耕作放棄水田で共に生きる水生昆虫
 - [[shikoku-michi]] — 身体で土地を読む実践：畑仕事もその一環
 - [[interests-timeline]] — 時系列の位置づけ
 - [[src-giantech-blog]] — 2014〜2015の記事

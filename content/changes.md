@@ -124,7 +124,7 @@ Medium・giantech.jp・SlideShare の記事・スライドを、関連する既�
 ### 🌱 Wiki初期化
 - [[src-tkskkd-world-scrapbox]] Scrapbox エクスポート（全2,836ページ）を取り込み
 - [[wholeness]]（全体性）[[shu-ha-ri]]（守破離）[[agile]]（アジャイル）[[permaculture]]（パーマカルチャー）[[nvc]]（NVC）[[mental-model]]（ザ・メンタルモデル）[[teineina-hatten]]（ていねいな発展 / マックス・ニーフ）ほか主要概念ページを作成
-- [[christopher-alexander]]／[[goethe]]／[[henri-bortoft]]／[[oka-kiyoshi]]／[[matsuo-basho]]／[[miyamoto-tsuneichi]]／[[tom-brown-jr]]／[[tagame-gengoro]]／[[iida-fumihiko]] など人物ページ作成
+- [[christopher-alexander]]／[[goethe]]／[[henri-bortoft]]／[[oka-kiyoshi]]／[[matsuo-basho]]／[[miyamoto-tsuneichi]]／[[tom-brown-jr]]／[[iida-fumihiko]] など人物ページ作成
 - [[media-log]]（フィクション感想ログ）[[shikoku-michi]]（四国のみち）など
 - [[five-star-books]] 5つ星書籍リスト
 

@@ -33,7 +33,7 @@ updated: 2026-04-16
 
 - [[running]] — ランニング：本プロジェクトの母体となる身体実践の全体像
 - [[miyamoto-tsuneichi]] — 宮本常一が歩いた四国の古道との接続
-- [[tagame-gengoro]] — 愛媛・四国での自然探索という共通の場
+- [[aquatic-insects]] — 愛媛・四国での自然探索という共通の場
 - [[tom-brown-jr]] — 自然に身体ごと参与する姿勢の共鳴
 - [[src-tkskkd-world-scrapbox]] — 出典元
 - [[src-medium-kkd]] — Medium記事群（R459Mプロジェクト・100kmマラソン体験記多数）
