@@ -5,6 +5,9 @@
 
 ---
 
+### Meta（メタ）
+- [works](works.md) — 著作一覧（懸田剛）：著書・翻訳・監修の全書籍リスト
+
 ### Sources（ソース）
 - [src-small-beautiful-village](src-small-beautiful-village.md) — 「小さな美しい村」（細井久栄著、2025年2月）：盈進学園東野高校建設回想録。パタン・ランゲージ実践・利用者参加・構造保存変容・System A/B統合
 - [src-tkskkd-world-scrapbox](src-tkskkd-world-scrapbox.md) — tkskkd-worldのScrapboxエクスポート全2,836ページの概要（2026-04-14）
@@ -28,7 +31,9 @@
 - [miyamoto-tsuneichi](miyamoto-tsuneichi.md) — 宮本常一：民俗学者。「父の十訓」「傍流の観察者」「進歩への疑問」。★を10個つけたい影響
 - [tom-brown-jr](tom-brown-jr.md) — トム・ブラウン・ジュニア：ネイチャートラッカー。「全体性とはこういう事なのか」の腹落ち
 - [oka-kiyoshi](oka-kiyoshi.md) — 岡潔：数学者。「情緒」= アレグザンダーの「feeling」という直感。全体性の別表現
-- [tagame-gengoro](tagame-gengoro.md) — タガメ・ゲンゴロウ：最多参照(25回)の永遠のアイドル。愛媛で息子と見つけるのが悲願
+- [aquatic-insects](aquatic-insects.md) — 水生昆虫：タガメ・ゲンゴロウなど、生態系の指標種への深い関与
+- [tagame](tagame.md) — タガメ：最多参照(25回)の永遠のアイドル。愛媛で息子と見つけるのが悲願。2025年栃木で初捕獲
+- [gengoro](gengoro.md) — ゲンゴロウ（コガタノゲンゴロウ）：タガメ探索の過程で愛媛で複数回発見
 - [matsuo-basho](matsuo-basho.md) — 松尾芭蕉：「造化」= The Nature of Order。アレグザンダー自身が笈の小文を高く評価
 - [iida-fumihiko](iida-fumihiko.md) — 飯田史彦：生きがい研究家。「論理的なスピリチュアル」への入口。★★★★★複数
 
@@ -48,6 +53,11 @@
 - [now-here](now-here.md) — いまここ（Now-Here）：フロー状態での瞬間的な一体感。自我の消失による全体性への直接的な道
 - [permaculture](permaculture.md) — パーマカルチャー：持続可能なデザイン体系。XP/アジャイルの源流のひとつ
 - [biotope-ecosystem-wholeness](biotope-ecosystem-wholeness.md) — ビオトープ・生態系と全体性：湿地ビオトープ保全活動を通じた全体性の体験。NVC・パーマカルチャーとの接続
+- [nature-observation](nature-observation.md) — 自然観察：同じ場所を通年観察し続けることで「自然は変わり続ける」を概念ではなく体験する実践。ビオトープ保全・レースから観察へのフェーズ転換
+- [negative-capability](negative-capability.md) — ネガティブ・ケイパビリティ：不確実・謎・疑念の中に留まり続ける能力。メンタルモデル・FSP・我守破離・ビオトープ管理と接続
+- [scrum](scrum.md) — スクラム：概要・評価・CSM史・関連リンク
+- [scrum-framework-discourse](scrum-framework-discourse.md) — スクラムを巡る言説：フレームワーク推進言説の構造的問題・失敗解釈の偏り・ScrumPatternsとの対比
+- [framework-adoption-mindset](framework-adoption-mindset.md) — フレームワーク導入の意識：ScrumBut・スクラムウォーターフォールを具体例に、採用側の意識（パワーかフォースか）を問う
 - [nvc](nvc.md) — NVC（非暴力コミュニケーション）：自己愛・他者愛を基盤とするコミュニケーション手法
 - [agile](agile.md) — アジャイル：113ページ分のメモ。「通り過ぎた」フェーズとして総括される
 - [xp](xp.md) — eXtreme Programming（Kent Beck）：Takeshiが最も影響を受けた体系。XP=Balanced/Harmony/全体性としての再解釈、「忘れられたXPer」
