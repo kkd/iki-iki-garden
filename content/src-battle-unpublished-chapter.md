@@ -1,5 +1,5 @@
 ---
-title: "Battle" 未収録章：Large-scale building production
+title: '"Battle" 未収録章：Large-scale building production'
 tags: [source, christopher-alexander, system-a-b, 全体性, 建築]
 sources: [self]
 updated: 2026-04-18
