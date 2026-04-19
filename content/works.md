@@ -130,8 +130,8 @@ Takeshi Kakeda（懸田剛）が著者・共著・翻訳・監修として関わ
 ### パタン・セオリー（2024）
 
 **原著:** *Pattern Theory: An Introduction to the Work of Christopher Alexander*（Helmut Leitner著）  
-**翻訳:** 懸田剛  
-**出版:** Iki-Iki Publishing（2024/10/5）  
+**翻訳:** 中埜博、懸田剛  
+**出版:** Kindle Direct Publishing（2024/10/5）  
 **Amazon:** [B0DJBL1LT9](https://www.amazon.co.jp/dp/B0DJBL1LT9)
 
 クリストファー・アレグザンダーの理論への序論と展望。15の生命特性・応用例・ポパーとの接続を扱う。
@@ -159,7 +159,7 @@ Takeshi Kakeda（懸田剛）が著者・共著・翻訳・監修として関わ
 
 **著者:** 細井久栄  
 **監修・編集:** 懸田剛、松田真美、川西俊之  
-**出版:** 2025年2月  
+**出版:** 2025年4月  
 **Amazon:** [B0F47RG33N](https://www.amazon.co.jp/dp/B0F47RG33N)
 
 盈進学園東野高等学校（1985年開校）のパタン・ランゲージ実践による建設プロセスの回想録。世界最大規模のパタン・ランゲージ実装事例。
