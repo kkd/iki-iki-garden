@@ -185,3 +185,4 @@ XP祭りが終わったら **全体性をテーマに本を書きたい** とい
 ### 昔ばなし・XPの旅
 - [日本アジャイル昔話『忘れられたXPer』XP祭り2021](https://www.slideshare.net/slideshow/xper-xp2021/250230705)
 - [XPの旅〜そして全体性へ〜 XPJUG2022](https://www.docswell.com/s/tkskkd/5MN4XZ-journey-of-xp-xpjug2022)
+- [[japan-agile-history]] — 日本アジャイル昔ばなし：XPJUG草創期からの歴史

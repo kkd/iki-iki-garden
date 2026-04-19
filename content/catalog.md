@@ -31,6 +31,7 @@
 - [nonaka-ikujiro](nonaka-ikujiro.md) — 野中郁次郎：SECIモデル。暗黙知→形式知の変換プロセスと「場（Ba）」の理論
 - [goethe](goethe.md) — ゲーテ：詩人・自然科学者。Scrapbox最初期から参照される核心的関心対象
 - [miyamoto-tsuneichi](miyamoto-tsuneichi.md) — 宮本常一：民俗学者。「父の十訓」「傍流の観察者」「進歩への疑問」。★を10個つけたい影響
+- [chichi-no-jukun](chichi-no-jukun.md) — 父の十訓：宮本常一が父から受けた旅の心得。参与的観察・傍流精神の原点
 - [tom-brown-jr](tom-brown-jr.md) — トム・ブラウン・ジュニア：ネイチャートラッカー。「全体性とはこういう事なのか」の腹落ち
 - [oka-kiyoshi](oka-kiyoshi.md) — 岡潔：数学者。「情緒」= アレグザンダーの「feeling」という直感。全体性の別表現
 - [aquatic-insects](aquatic-insects.md) — 水生昆虫：タガメ・ゲンゴロウなど、生態系の指標種への深い関与
@@ -48,8 +49,10 @@
 - [zoka](zoka.md) — 造化：芭蕉「笈の小文」=アレグザンダー The Nature of Order。東西の参与的認識論を貫く中核概念
 - [structure-preserving-transformation](structure-preserving-transformation.md) — 構造保存変容：既存構造の潜在力を活かしながら調和を高める変容。アレグザンダーの核心的思想。盈進学園東野高校での実装例
 - [system-a-b-integration](system-a-b-integration.md) — System A/B の統合：感性と合理性の対立を超える統合。度合いではなく「AもB も」。おしん会議モデル。簡単ではない道
+- [participatory-knowing](participatory-knowing.md) — 参与的認識論：対象と一体化することで初めて見えるもの。ポランニー・ゲーテ・芭蕉を貫く認識の根本原理。アジャイル言説批評への接続
 - [participatory-knowing-complementarity](participatory-knowing-complementarity.md) — 参与的認識の相互補完：専門家（土地の声）と利用者（生活ニーズ）の参与的認識の相互補完。東野高校での実装例
 - [shu-ha-ri](shu-ha-ri.md) — 守破離：学習段階論。通説の「順番」解釈への根本的疑問を含む
+- [ou-musho-ju](ou-musho-ju.md) — 応無所住而生其心：守破離「離」の禅語。どこにも留まらない不動智の心
 - [ga-shu-ha-ri](ga-shu-ha-ri.md) — 我守破離：守破離の前に「我」＝我流の試行錯誤を置いた拡張モデル。フレームワーク弊害の根本解決
 - [observer-in-wholeness](observer-in-wholeness.md) — 観測者を含めた全体性：自己分離との不可分性。アレグザンダー「感情を使う」に直結。**深化中**
 - [self-separation](self-separation.md) — 自己分離（自己疎外）：痛みの回避から始まる防衛メカニズム。全体性・NVC・メンタルモデルと不可分
@@ -64,6 +67,7 @@
 - [nvc](nvc.md) — NVC（非暴力コミュニケーション）：自己愛・他者愛を基盤とするコミュニケーション手法
 - [agile](agile.md) — アジャイル：113ページ分のメモ。「通り過ぎた」フェーズとして総括される
 - [xp](xp.md) — eXtreme Programming（Kent Beck）：Takeshiが最も影響を受けた体系。XP=Balanced/Harmony/全体性としての再解釈、「忘れられたXPer」
+- [japan-agile-history](japan-agile-history.md) — 日本アジャイル昔ばなし：草創期2000〜2010。XPJUG創設・翻訳・地方普及・傍流としての歩み
 - [organization-development](organization-development.md) — 組織開発・組織の生命性：「構造の変化だけで本当に実現できる？」という問いを軸に、FSP・NVC・アレグザンダー・パーマカルチャーを接続
 - [teal-organization](teal-organization.md) — ティール組織（ラルー）：インテグラル理論・成人発達理論・スクラム・自然経営との接続。「含んで超える」と守破離の対応
 - [schumacher-small-is-beautiful](schumacher-small-is-beautiful.md) — シュマッハー「スモール・イズ・ビューティフル」（1973）：組織の適正規模・中間/適正技術・仏教経済学。時代を50年先取りした名著。アジャイル界隈の必読教養
@@ -79,6 +83,7 @@
 - [binary-thinking-vs-wholeness](binary-thinking-vs-wholeness.md) — 二元論的思考から「度合い」への転換：「生きている/死んでいる」ではなく「生命の質」で理解する
 - [framework-paradox](framework-paradox.md) — フレームワークのパラドックス：得るもの（効率化・認知負荷低減）と失うもの（体験・全体視野）の分析
 - [circular-society](circular-society.md) — 循環型社会・サステナビリティ：2006年「XP=持続可能性」気づきからの20年コミット。小さな循環・脱成長・サーキュラーエコノミー
+- [boryu](boryu.md) — 傍流：主流が取りこぼすものを拾い上げ世界の全体性を回復させる。渋沢敬三「大事なことは主流にならぬことだ」
 - [cross-field-principles](cross-field-principles.md) — 分野を超えて共通する原理・見えないつながり：XP×パーマカルチャー×パタン・ランゲージの3円発見から始まるwiki全体のメタ軸
 - [ikigai](ikigai.md) — IKIGAI（生きがいのベン図）：2011年Ari Bancale起源の英語圏4円ベン図の出自を辿ったTakeshiの原点調査とIKIGAI Questワークショップ
 - [multipotentialite](multipotentialite.md) — マルチ・ポテンシャライト：複数分野を渡り歩く特性。Takeshiのnote最大バズ記事（2020、1000いいね）。器用貧乏の解体・IKIGAIとの接続
