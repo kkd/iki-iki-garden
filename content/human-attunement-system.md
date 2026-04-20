@@ -17,6 +17,8 @@ GitHub: [human-attunement/system](https://github.com/human-attunement/system)
 Webサイト：[https://human-attunement.org/](https://human-attunement.org/)
 著者: Takeshi Kakeda
 
+> **Note**: 現在の文書は防衛的・否定的表現が多く、文章トーンの改善を予定している（[issue #16](https://github.com/human-attunement/system/issues/16)）。「境界を守る言語」から「前提を思い出させる言語」への移行が方針。
+
 ---
 
 ## HAS Manifesto：4つの条件
