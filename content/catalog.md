@@ -9,6 +9,7 @@
 - [works](works.md) — 著作一覧（懸田剛）：著書・翻訳・監修の全書籍リスト
 
 ### Sources（ソース）
+- [src-has-manual](src-has-manual.md) — HAS マニュアル（Takeshi Kakeda著, v2.4.6, 2025-12-30）：Human Attunement System の仕様書。Manifesto・調律/調整/適合・PFA・State Patterns
 - [src-battle-unpublished-chapter](src-battle-unpublished-chapter.md) — "Battle"未収録章（Alexander, 2010）：System A/B amalgam構想。東野高校成功の4要因・Mixed contract・80%満足の自己評価
 - [src-small-beautiful-village](src-small-beautiful-village.md) — 「小さな美しい村」（細井久栄著、2025年2月）：盈進学園東野高校建設回想録。パタン・ランゲージ実践・利用者参加・構造保存変容・System A/B統合
 - [src-tkskkd-world-scrapbox](src-tkskkd-world-scrapbox.md) — tkskkd-worldのScrapboxエクスポート全2,836ページの概要（2026-04-14）
@@ -74,6 +75,7 @@
 - [teineina-hatten](teineina-hatten.md) — ていねいな発展（マックス・ニーフ）：ニーズとサティスファイヤーの理論
 - [mental-model](mental-model.md) — ザ・メンタルモデル：痛みの分離から統合へ。★★★★★
 - [u-theory](u-theory.md) — U理論（シャーマー）：シュタイナー影響・アレグザンダーを参考文献に明示。Presencing = conscious participationの組織論版
+- [human-attunement-system](human-attunement-system.md) — HAS（Human Attunement System）：選択可能性が失われる連鎖を遮断するセーフティーシステム。調律/調整/適合・PFA・State Patterns P01-P04
 - [felt-state-pattern](felt-state-pattern.md) — 感応状態パターン（FSP）：Takeshiのオリジナル概念。NVC・メンタルモデル・アレグザンダーを統合した組織の場の力学記述。論文近刊予定
 - [parkour](parkour.md) — パルクール / Méthode Naturelle：人間本来の動きの全体性。from-to構造・ベアフットランと同型の身体知実践
 - [agile-health-kaizen](agile-health-kaizen.md) — 「アジャイル式」健康カイゼンガイド（翔泳社2022, 懸田剛著）：全体性・構造保存変容を日常の健康実践に接続した集大成的著書

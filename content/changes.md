@@ -14,7 +14,13 @@ updated: 2026-04-18
 
 ## 2026-04-20
 
+### 📚 新しい一次資料
+
+- [[src-has-manual]] ── HASマニュアル（has-manual-recent.pdf）：Takeshi Kakeda 著。v2.4.6 / Concept v2.0、2025-12-30 版。4条件・3志向・PFA・State Patterns P01-P04・3層構造を収録
+
 ### 🆕 新しい概念ページ
+
+- [[human-attunement-system]] ── HAS（Human Attunement System）：選択可能性を保つセーフティーシステム。FSPのベース・自己分離を自覚する枠組み・System A/B統合の前提条件として位置づけ
 
 - [[participatory-knowing]] ── 参与的認識論：対象と一体化することで初めて見えるもの。ポランニー・ゲーテ・芭蕉を貫く認識の根本原理。スクラム言説批評との接続
 - [[boryu]] ── 傍流：主流と平行しながら主流が取りこぼすものを拾い上げる。渋沢敬三の全文引用（『民俗学の旅』P.98）追加
