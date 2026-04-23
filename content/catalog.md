@@ -92,6 +92,7 @@
 - [brain-hemispheres](brain-hemispheres.md) — 左脳・右脳（大脳半球の非対称性）：ジェインズ（二分心）・ジル・ボルト・テイラー（WHOLE BRAIN）・マクギルクリスト（主人と使者）を束ねる認識論的ハブ
 - [insect-aversion-hypothesis](insect-aversion-hypothesis.md) — 虫嫌いと自己分離の仮説：虫への嫌悪感＝自己の受け入れられない部分の投影。成人後に虫嫌いが増す現象を自己分離で説明する仮説（2022）
 - [jill-bolte-taylor](jill-bolte-taylor.md) — ジル・ボルト・テイラー：4つの脳キャラクター（左脳・思考/感情、右脳・思考/感情）。Character 2（恐れ・過去の傷）が自己分離の神経科学的根拠
+- [polyvagal-theory](polyvagal-theory.md) — ポリヴェーガル理論：自律神経の3階層（腹側迷走神経・交感神経・背側迷走神経）。Fear/Freeze の神経的基盤。HAS・4キャラクター・自己分離への接続（探索中）
 - [process-communication-model](process-communication-model.md) — PCM（プロセスコミュニケーションモデル）：6タイプのパーソナリティ論。ディストレス＝Character 2の個性別発火パターン。メンタルモデル・自己分離との補完関係
 - [personality-adaptations](personality-adaptations.md) — 人格適応論（交流分析からの2つの流れ）：PCMの兄弟モデル。禁止令・脚本・3つのドア。「なぜそう適応したか」の発達論。メンタルモデルとの深い同型
 - [circular-society](circular-society.md) — 循環型社会・サステナビリティ：2006年「XP=持続可能性」気づきからの20年コミット。小さな循環・脱成長・サーキュラーエコノミー

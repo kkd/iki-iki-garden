@@ -244,6 +244,7 @@ updated: 2026-04-17
 - [[teal-organization]] — ティール組織：個人の全体性が組織を変える
 - [[agile-health-kaizen]] — 「アジャイル式」健康カイゼンガイド：実践的な転換
 - [[running]] / [[parkour]] — 身体を通じた自己統合・いまここへの没入
+- [[polyvagal-theory]] — ポリヴェーガル理論：慢性的交感神経優位・Freeze が自己分離の神経生理学的基盤
 
 ## note.com 関連記事
 
