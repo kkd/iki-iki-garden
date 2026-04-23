@@ -90,6 +90,7 @@
 - [binary-thinking-vs-wholeness](binary-thinking-vs-wholeness.md) — 二元論的思考から「度合い」への転換：「生きている/死んでいる」ではなく「生命の質」で理解する
 - [framework-paradox](framework-paradox.md) — フレームワークのパラドックス：得るもの（効率化・認知負荷低減）と失うもの（体験・全体視野）の分析
 - [brain-hemispheres](brain-hemispheres.md) — 左脳・右脳（大脳半球の非対称性）：ジェインズ（二分心）・ジル・ボルト・テイラー（WHOLE BRAIN）・マクギルクリスト（主人と使者）を束ねる認識論的ハブ
+- [insect-aversion-hypothesis](insect-aversion-hypothesis.md) — 虫嫌いと自己分離の仮説：虫への嫌悪感＝自己の受け入れられない部分の投影。成人後に虫嫌いが増す現象を自己分離で説明する仮説（2022）
 - [jill-bolte-taylor](jill-bolte-taylor.md) — ジル・ボルト・テイラー：4つの脳キャラクター（左脳・思考/感情、右脳・思考/感情）。Character 2（恐れ・過去の傷）が自己分離の神経科学的根拠
 - [process-communication-model](process-communication-model.md) — PCM（プロセスコミュニケーションモデル）：6タイプのパーソナリティ論。ディストレス＝Character 2の個性別発火パターン。メンタルモデル・自己分離との補完関係
 - [personality-adaptations](personality-adaptations.md) — 人格適応論（交流分析からの2つの流れ）：PCMの兄弟モデル。禁止令・脚本・3つのドア。「なぜそう適応したか」の発達論。メンタルモデルとの深い同型
