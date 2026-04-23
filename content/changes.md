@@ -20,6 +20,7 @@ updated: 2026-04-23
 - [[analysis-epistemological-axes]] ── 認識論的横断軸：Takeshiの認識論的立場を貫く9軸の整理。「生成的方向」と「発見的方向」の2回路を図示
 - [[permaculture-principles]] ── パーマカルチャーの原則：Mollison の3倫理・11デザイン原則（エッジ効果含む）・Holmgren の12デザイン原則を収録。XP・パタン・ランゲージとの同型表付き
 - [[values-principles-practices]] ── 価値・原則・実践：XP・パーマカルチャー・TDD に共通する3層構造。懸田の「プラクティスは仮説」「価値駆動人生」を含む
+- [[values-ethics-dignity]] ── 価値・倫理・尊厳：最上位層に何を置くかの探求。価値（主観）→倫理（規範）→尊厳（存在）の階梯。感じの実存との接続
 
 ### ✏️ 既存ページ更新
 

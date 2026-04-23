@@ -104,6 +104,7 @@ Kent Beck 自身は本書の結論でこう述べている：
 
 ## 関連ページ
 
+- [[values-ethics-dignity]] — 価値・倫理・尊厳：最上位層に何を置くかの探求。価値/倫理/尊厳の階梯
 - [[xp]] — eXtreme Programming：Kent Beck の V/P/P 体系の源泉
 - [[permaculture-principles]] — パーマカルチャーの原則：倫理/原則/実践の同型構造
 - [[cross-field-principles]] — 分野横断原理：XP×パターン×パーマカルチャーの3円
