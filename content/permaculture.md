@@ -13,6 +13,8 @@ updated: 2026-04-16
 
 自然のパターンと関係性を模倣することで、人間の居住・農業・コミュニティを持続可能にデザインする体系。モリソンの『Permaculture: A Designers' Manual』がパーマカルチャーデザイナーの決定版。
 
+体系の核は **3つの倫理** と **デザイン原則群**（モリソン11原則・ホルムグレン12原則）で構成される。詳細は [[permaculture-principles]] を参照。
+
 ## ソフトウェア開発との意外な接続
 
 > eXtreme Programming（XP）はパーマカルチャーを参考にしており、著者のKent Beckは一時期「Perma Programming」を標榜していた時期もあった。
