@@ -61,6 +61,7 @@
 - [now-here](now-here.md) — いまここ（Now-Here）：フロー状態での瞬間的な一体感。自我の消失による全体性への直接的な道
 - [permaculture](permaculture.md) — パーマカルチャー：持続可能なデザイン体系。XP/アジャイルの源流のひとつ
 - [permaculture-principles](permaculture-principles.md) — パーマカルチャーの原則：Mollison の3倫理・Holmgren の12デザイン原則。エッジ効果のXP応用を含む
+- [values-principles-practices](values-principles-practices.md) — 価値・原則・実践：XP・パーマカルチャー・TDDに共通する3層構造。懸田の「価値駆動人生」概念を含む
 - [biotope-ecosystem-wholeness](biotope-ecosystem-wholeness.md) — ビオトープ・生態系と全体性：湿地ビオトープ保全活動を通じた全体性の体験。NVC・パーマカルチャーとの接続
 - [nature-observation](nature-observation.md) — 自然観察：同じ場所を通年観察し続けることで「自然は変わり続ける」を概念ではなく体験する実践。ビオトープ保全・レースから観察へのフェーズ転換
 - [negative-capability](negative-capability.md) — ネガティブ・ケイパビリティ：不確実・謎・疑念の中に留まり続ける能力。メンタルモデル・FSP・我守破離・ビオトープ管理と接続
