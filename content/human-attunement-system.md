@@ -140,6 +140,32 @@ HAS 自身が自覚するリスク：
 
 ---
 
+## 「あり方（Being）」との関係
+
+HAS は「あり方についての言語化をしようとした結果生まれた」システムである（[tkskkd Scrapbox 2025/12/17](https://micro.tkskkd.com/2025/12/17/aichat-gptgeminiclaude-httpshumanattunementorg.html)）。
+
+2025年に書かれた「あり方（Being）」シリーズ記事は、HAS の背景にある個人レベルの実践を言語化したものと読める：
+
+| あり方シリーズの概念 | HAS での対応 |
+|---|---|
+| Being（内側の状態への継続的な観察） | 調律位置マップの「観察（Observation）」 |
+| Doing と Being の循環 | 調律 = 行動と反応の間に「間」を保つ |
+| 行動の背後に「何があるか」を見る | P01 感情を置く → P02 識別する |
+| 不快感情を回避せずに感じ続けること | P03 不快への滞留（Hold） |
+
+HAS が「やり方」ではなく「志向（Orientation）」だけを扱う理由は、まさに Doing ではなく Being を扱うからである。「どの状態（あり方）から行動しているか」を問い続けることが、調律の実践の核心。
+
+> 「あり方」って自分の内側の状態をひたすら観測している意識が重要だと思うのです。
+> （[tkskkd Scrapbox 2025/12/05](https://micro.tkskkd.com/2025/12/05/httpsnotecomkkdnnea.html)）
+
+### 関連 note.com 記事（あり方シリーズ）
+
+- [「あり方（Being）」からはじめる変容─なぜ「あり方」が大事なのか](https://note.com/kkd/n/nc6ffb0bfae9b)（2025/10） — Doing と Being の循環。「あり方」= 今この瞬間、内側に何があるかを観察し続けること。HAS の「志向だけを扱う」設計の背景
+- [「感情」を「あり方」の入口とする](https://note.com/kkd/n/n72f3963d0851)（2025/09） — Feeling / Emotion / Passion の区別。感情 = 「大切な何か」のサイン。NVC のニーズ論との接続
+- [「あり方（Being）」からはじめる変容─感情の意味と不快回避行動](https://note.com/kkd/n/n30842e91a955)（2025/12） — 不快回避行動の2つの弊害：①ニーズに気づけない ②相手に共感できない
+
+---
+
 ## wiki内での位置づけ
 
 ### [[felt-state-pattern]]（FSP）のベース
