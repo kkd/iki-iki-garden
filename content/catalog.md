@@ -63,6 +63,7 @@
 - [permaculture-principles](permaculture-principles.md) — パーマカルチャーの原則：Mollison の3倫理・Holmgren の12デザイン原則。エッジ効果のXP応用を含む
 - [values-principles-practices](values-principles-practices.md) — 価値・原則・実践：XP・パーマカルチャー・TDDに共通する3層構造。懸田の「価値駆動人生」概念を含む
 - [values-ethics-dignity](values-ethics-dignity.md) — 価値・倫理・尊厳：最上位層に何を置くかの探求。価値（主観）→倫理（規範）→尊厳（存在）の階梯とREDフレームワーク
+- [observer-quantum](observer-quantum.md) — 観測者問題と量子論：安易な接続のリスクと消極的な扱い方。ボーム→Bortoft の系譜が唯一の誠実な経路
 - [biotope-ecosystem-wholeness](biotope-ecosystem-wholeness.md) — ビオトープ・生態系と全体性：湿地ビオトープ保全活動を通じた全体性の体験。NVC・パーマカルチャーとの接続
 - [nature-observation](nature-observation.md) — 自然観察：同じ場所を通年観察し続けることで「自然は変わり続ける」を概念ではなく体験する実践。ビオトープ保全・レースから観察へのフェーズ転換
 - [negative-capability](negative-capability.md) — ネガティブ・ケイパビリティ：不確実・謎・疑念の中に留まり続ける能力。メンタルモデル・FSP・我守破離・ビオトープ管理と接続
@@ -88,6 +89,10 @@
 - [science-wholeness-tension](science-wholeness-tension.md) — 科学・医学的批判と全体性知識の緊張：「疑似科学」批判とポパー・クーン・ラカトシュによる応答
 - [binary-thinking-vs-wholeness](binary-thinking-vs-wholeness.md) — 二元論的思考から「度合い」への転換：「生きている/死んでいる」ではなく「生命の質」で理解する
 - [framework-paradox](framework-paradox.md) — フレームワークのパラドックス：得るもの（効率化・認知負荷低減）と失うもの（体験・全体視野）の分析
+- [brain-hemispheres](brain-hemispheres.md) — 左脳・右脳（大脳半球の非対称性）：ジェインズ（二分心）・ジル・ボルト・テイラー（WHOLE BRAIN）・マクギルクリスト（主人と使者）を束ねる認識論的ハブ
+- [jill-bolte-taylor](jill-bolte-taylor.md) — ジル・ボルト・テイラー：4つの脳キャラクター（左脳・思考/感情、右脳・思考/感情）。Character 2（恐れ・過去の傷）が自己分離の神経科学的根拠
+- [process-communication-model](process-communication-model.md) — PCM（プロセスコミュニケーションモデル）：6タイプのパーソナリティ論。ディストレス＝Character 2の個性別発火パターン。メンタルモデル・自己分離との補完関係
+- [personality-adaptations](personality-adaptations.md) — 人格適応論（交流分析からの2つの流れ）：PCMの兄弟モデル。禁止令・脚本・3つのドア。「なぜそう適応したか」の発達論。メンタルモデルとの深い同型
 - [circular-society](circular-society.md) — 循環型社会・サステナビリティ：2006年「XP=持続可能性」気づきからの20年コミット。小さな循環・脱成長・サーキュラーエコノミー
 - [boryu](boryu.md) — 傍流：主流が取りこぼすものを拾い上げ世界の全体性を回復させる。渋沢敬三「大事なことは主流にならぬことだ」
 - [cross-field-principles](cross-field-principles.md) — 分野を超えて共通する原理・見えないつながり：XP×パーマカルチャー×パタン・ランゲージの3円発見から始まるwiki全体のメタ軸

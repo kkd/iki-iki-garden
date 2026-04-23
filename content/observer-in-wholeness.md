@@ -139,6 +139,7 @@ tkskkd.comに投稿された、アレグザンダーとメンタルモデルを�
 ## 関連ページ
 
 - [[wholeness]] — 全体性：本ページの土台
+- [[observer-quantum]] — 観測者問題と量子論：量子論との接続の慎重な扱い方
 - [[participatory-knowing-complementarity]] — 参与的認識の相互補完：専門家と利用者の観測者込み統合
 - [[christopher-alexander]] — 「感情を使う」方法論の起点
 - [[henri-bortoft]] — 本物の全体性 vs にせの全体性
