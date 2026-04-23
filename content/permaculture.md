@@ -32,6 +32,7 @@ updated: 2026-04-16
 
 ## 関連ページ
 
+- [[permaculture-principles]] — パーマカルチャーの原則：Mollison の3倫理・Holmgren の12原則・エッジ効果の詳細
 - [[christopher-alexander]] — アレグザンダー：パーマカルチャー×The Nature of Order、Dan Palmer記事で翻訳
 - [[wholeness]] — 全体性：パーマカルチャーの哲学的基盤
 - [[xp]] — eXtreme Programming：Kent Beck「Perma Programming」の源泉
