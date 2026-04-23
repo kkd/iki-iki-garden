@@ -86,6 +86,13 @@ export default (() => {
         <meta name="description" content={description} />
         <meta name="generator" content="Quartz" />
 
+        {/* GoatCounter analytics */}
+        <script
+          data-goatcounter="https://kakeda.goatcounter.com/count"
+          async
+          src="//gc.zgo.at/count.js"
+        ></script>
+
         {css.map((resource) => CSSResourceToStyleElement(resource, true))}
         {js
           .filter((resource) => resource.loadTime === "beforeDOMReady")
