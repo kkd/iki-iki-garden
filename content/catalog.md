@@ -45,6 +45,7 @@
 - [eishin-gakuen-higashino-high-school](eishin-gakuen-higashino-high-school.md) — 盈進学園東野高等学校：1985年開校、2万坪。パタン・ランゲージ世界最大規模実装。池・玄関道・木造体育館・利用者参加デザイン
 
 ### Concepts（概念）
+- [felt-existence](felt-existence.md) — 感じの実存：「感じているものを実存として扱う」（細井久栄）・「あるものは、ある」（由佐美加子）。自己分離からの統合の起点。軸4・6・8の共通の根
 - [pattern-language](pattern-language.md) — パタン・ランゲージ：アレグザンダー発。建築→ソフトウェア→組織・農・教育へと分野を超えて応用される設計言語
 - [wholeness](wholeness.md) — 全体性：ゲーテ・アレグザンダーを貫く有機的・統合的認識論
 - [zoka](zoka.md) — 造化：芭蕉「笈の小文」=アレグザンダー The Nature of Order。東西の参与的認識論を貫く中核概念
@@ -92,6 +93,7 @@
 - [dekiru-kataru-wakaru](dekiru-kataru-wakaru.md) — できる・かたる・わかる の関係仮説：身体知と言語の統合が「わかる」を生む。SECIモデル批判・インナーゲームとの接続（2019）
 
 ### Analyses（分析）
+- [analysis-epistemological-axes](analysis-epistemological-axes.md) — Takeshiの認識論的立場を貫く6軸の整理：感情の非分離・漸進的プロセス・不快受容・内発・場の固有性・度合い
 - [five-star-books](five-star-books.md) — 5つ星書籍73冊の一覧。テーマ別に整理
 - [media-log](media-log.md) — アニメ・マンガ・映画・ドラマ感想ログ。30作品、テーマキーワードで概念ページと接続
 - [interests-timeline](interests-timeline.md) — 2010〜2026 関心変遷タイムライン。6フェーズ・転換点6つ・テーマクラスタのライフライン
