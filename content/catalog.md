@@ -75,6 +75,7 @@
 - [framework-adoption-mindset](framework-adoption-mindset.md) — フレームワーク導入の意識：ScrumBut・スクラムウォーターフォールを具体例に、採用側の意識（パワーかフォースか）を問う
 - [nvc](nvc.md) — NVC（非暴力コミュニケーション）：自己愛・他者愛を基盤とするコミュニケーション手法
 - [agile](agile.md) — アジャイル：113ページ分のメモ。「通り過ぎた」フェーズとして総括される
+- [agile-manifesto](agile-manifesto.md) — アジャイルマニフェスト：パターンランゲージの素として読む視座・XP祭り2023での「これまでと、これから」発表・渇望から生まれた宣言
 - [xp](xp.md) — eXtreme Programming（Kent Beck）：Takeshiが最も影響を受けた体系。XP=Balanced/Harmony/全体性としての再解釈、「忘れられたXPer」
 - [japan-agile-history](japan-agile-history.md) — 日本アジャイル昔ばなし：草創期2000〜2010。XPJUG創設・翻訳・地方普及・傍流としての歩み
 - [organization-development](organization-development.md) — 組織開発・組織の生命性：「構造の変化だけで本当に実現できる？」という問いを軸に、FSP・NVC・アレグザンダー・パーマカルチャーを接続

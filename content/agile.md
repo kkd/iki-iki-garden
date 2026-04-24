@@ -30,6 +30,7 @@ updated: 2026-04-16
 
 ## 関連ページ
 
+- [[agile-manifesto]] — アジャイルマニフェスト：パターンランゲージとして読む視座・XP祭り2023発表
 - [[xp]] — eXtreme Programming：Takeshiが最も影響を受けた体系。Kent Beckの感性
 - [[christopher-alexander]] — アレグザンダー：パタン・ランゲージ→GoF→XP→アジャイルの系譜
 - [[shu-ha-ri]] — 守破離
