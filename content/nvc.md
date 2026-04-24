@@ -4,7 +4,6 @@ tags: [concept, コミュニケーション, 人間関係, マーシャル・ロ
 sources: [src-tkskkd-world-scrapbox, src-medium-kkd]
 updated: 2026-04-16
 ---
-
 # NVC（非暴力コミュニケーション）
 
 マーシャル・ローゼンバーグ（Marshall Rosenberg）が開発したコミュニケーション手法。正式名称 Nonviolent Communication。
