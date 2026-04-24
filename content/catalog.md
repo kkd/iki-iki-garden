@@ -58,6 +58,9 @@
 - [ga-shu-ha-ri](ga-shu-ha-ri.md) — 我守破離：守破離の前に「我」＝我流の試行錯誤を置いた拡張モデル。フレームワーク弊害の根本解決
 - [observer-in-wholeness](observer-in-wholeness.md) — 観測者を含めた全体性：自己分離との不可分性。アレグザンダー「感情を使う」に直結。**深化中**
 - [self-separation](self-separation.md) — 自己分離（自己疎外）：痛みの回避から始まる防衛メカニズム。全体性・NVC・メンタルモデルと不可分
+- [self-understanding](self-understanding.md) — 自己理解：「自分を知る」の深さの層（表層→信念→痛み）。無意識・自動反応（生存適合OS）の構造。NVC・メンタルモデル・守破離との接続
+- [human-understanding](human-understanding.md) — 人間理解：「人間中心」の先にある内的世界の理解へのパラダイム転換。自己理解→Unfoldingの組織論
+- [empathy](empathy.md) — 共感：認識の様式としての共感。自己共感→自己理解、他者共感→他者理解。人間理解の機構
 - [now-here](now-here.md) — いまここ（Now-Here）：フロー状態での瞬間的な一体感。自我の消失による全体性への直接的な道
 - [permaculture](permaculture.md) — パーマカルチャー：持続可能なデザイン体系。XP/アジャイルの源流のひとつ
 - [permaculture-principles](permaculture-principles.md) — パーマカルチャーの原則：Mollison の3倫理・Holmgren の12デザイン原則。エッジ効果のXP応用を含む
