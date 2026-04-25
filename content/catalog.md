@@ -116,6 +116,7 @@
 - [shikoku-michi](shikoku-michi.md) — 四国のみち・走り遍路：1,500km超のトレイルランニングプロジェクト
 - [vegetable-garden](vegetable-garden.md) — 野菜作り・畑：「自分で必要なものは自分でつくる」×「休耕地活用」。庭菜園→借り畑→水田→畑+ビオトープ共生へ
 - [running](running.md) — ランニング：2012年開始の身体実践。ベアフット・健康/思考整理・目標挑戦・超長距離・痛みの受容の5視点
+- [meditation](meditation.md) — 瞑想：主流マインドフルネスを超えた「瞑想の先」の志向。TDD＝書く瞑想・ジャグリング≈瞑想という cross-field-principles 的洞察
 
 ### Notes（ノート）
 <!-- 雑記・日記・未整理メモ -->
