@@ -104,7 +104,7 @@ XP祭りが終わったら **全体性をテーマに本を書きたい** とい
 
 ## 関連書籍
 
-- **『eXtreme Programming Explained（白本 XPE）』** Kent Beck — オリジン。白本読書会を終えた人向けの参考文献を平鍋さん（正統派）と懸田（パーマカルチャー・パタン・NVC系）で網羅的に語りたい、という構想がある
+- **『eXtreme Programming Explained（白本 XPE）』** Kent Beck — オリジン。白本読書会を終えた人向けの参考文献を平鍋さん（正統派）とTakeshi（パーマカルチャー・パタン・NVC系）で網羅的に語りたい、という構想がある
 - 『eXtreme Programmingテスト技法』— XPJUG初期の共著
 - 『リファクタリング（第2版）』
 
@@ -114,7 +114,7 @@ XP祭りが終わったら **全体性をテーマに本を書きたい** とい
 - [[nvc]] NVCを発見したのは、XP白本の参考文献から
 - [[christopher-alexander]] — アレグザンダー：XPの思想的源流。パタン・ランゲージ→GoF→XP→アジャイル
 - [[permaculture]] — Kent Beckが「Perma Programming」を標榜した源泉。パーマカルチャーに興味を持ってから、XP白本を見たら参考文献に載っていた驚き
-- [[values-principles-practices]] — 価値・原則・実践：XP の3層構造とパーマカルチャー・TDDの同型。懸田の「価値駆動人生」概念を含む
+- [[values-principles-practices]] — 価値・原則・実践：XP の3層構造とパーマカルチャー・TDDの同型。Takeshiの「価値駆動人生」概念を含む
 - [[cross-field-principles]] — 分野を超えて共通する原理：XP×パーマカルチャー×パタン・ランゲージの3つの円が「見えないつながり」への関心の起点
 - [[circular-society]] — 循環型社会：2006年「XP=持続可能性」の気づきが起点
 - [[zoka]] — 造化：TDD=生命の働き、リファクタリング=構造保存変容の理論的裏付け
