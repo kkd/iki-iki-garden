@@ -71,6 +71,7 @@
 - [values-ethics-dignity](values-ethics-dignity.md) — 価値・倫理・尊厳：最上位層に何を置くかの探求。価値（主観）→倫理（規範）→尊厳（存在）の階梯とREDフレームワーク
 - [observer-quantum](observer-quantum.md) — 観測者問題と量子論：安易な接続のリスクと消極的な扱い方。ボーム→Bortoft の系譜が唯一の誠実な経路
 - [biotope-ecosystem-wholeness](biotope-ecosystem-wholeness.md) — ビオトープ・生態系と全体性：湿地ビオトープ保全活動を通じた全体性の体験。NVC・パーマカルチャーとの接続
+- [diversity](diversity.md) — 多様性（生物多様性と人間多様性）：生物多様性と人間多様性は同型・不可分。「役に立つかどうか」で存在を測る価値観への問い直し
 - [nature-observation](nature-observation.md) — 自然観察：同じ場所を通年観察し続けることで「自然は変わり続ける」を概念ではなく体験する実践。ビオトープ保全・レースから観察へのフェーズ転換
 - [negative-capability](negative-capability.md) — ネガティブ・ケイパビリティ：不確実・謎・疑念の中に留まり続ける能力。メンタルモデル・FSP・我守破離・ビオトープ管理と接続
 - [scrum](scrum.md) — スクラム：概要・評価・CSM史・関連リンク

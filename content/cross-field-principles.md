@@ -169,4 +169,5 @@ Takeshiが繰り返し使う表現：「お前は俺か」。別分野の人が�
 - [[matsuo-basho]] — 古典からの言語化
 - [[michael-polanyi]] / [[henri-bortoft]] / [[goethe]] / [[oka-kiyoshi]] — 哲学的裏付け
 - [[felt-state-pattern]] — Takeshi自身によるメタファー思考の実践例（NVC・メンタルモデル・アレグザンダーを組織に翻訳）
+- [[diversity]] — 生物多様性⇔人間多様性の同型：「見えないつながり」の一具体例
 - [[interests-timeline]] — 2006-2007の3円発見を起点とする関心の展開
