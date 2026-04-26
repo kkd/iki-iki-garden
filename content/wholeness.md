@@ -1,8 +1,8 @@
 ---
 title: 全体性
 tags: [concept, 哲学, ゲーテ, アレグザンダー, 自然観]
-sources: [src-tkskkd-world-scrapbox, src-medium-kkd]
-updated: 2026-04-16
+sources: [src-tkskkd-world-scrapbox, src-medium-kkd, src-timeless-way-of-building]
+updated: 2026-04-26
 ---
 
 # 全体性
@@ -11,7 +11,9 @@ updated: 2026-04-16
 
 ## Takeshiによる現在の言語化（2026-04-18）
 
-> 「生命の質・生き生きさとは、『いまここにあるもの』に人が入り込んで一体となり、ゆっくりと、真摯に、丁寧に、関係を紡いでいくプロセスにより生成されていく。その起点となるのは『その人の願いや想い』という感情や意識であり、そこから質は展開して全体に広がっていく」
+> 「生命の質・生き生きさとは、『いまここにあるもの』に人が入り込んで一体となり、ゆっくりと、真摯に、丁寧に、関係を紡いでいくプロセスにより生成されていく。
+> その起点となるのは『その人の願いや想い』という感情や意識であり、もがき、苦しみながらも、それでもなお、前に進もうとする姿勢から生まれる。
+> 痛みや苦しみは、単に避けるのでなく、味わい、応答することにより、質は展開し全体に広がっていく。」
 
 → [[cross-field-principles]] — この言語化に至った20年の発見の経緯
 
@@ -30,7 +32,37 @@ updated: 2026-04-16
 
 > 体内の細菌や臓器が全体の調和を乱すように振る舞うことで自分の体調が変化し疾病を引き起こすように、人が自然の調和を乱すように振る舞うことでより大きな全体のバランスが崩れて異変が起きることは自明だ。有機体としてみた時に、人は地球であり、地球は人である。
 
-## アレグザンダーとの接続
+## アレグザンダーにおける全体性の定義（TWoB 1979）
+
+[[src-timeless-way-of-building]] の Ch.8「The quality itself」に、全体性の最も根本的な定義が示されている。
+
+### 1. 全体性 = 内なる力との完全な和解
+
+> *In short, there is a character in natural things which is created by the fact that they are reconciled, exactly, to their inner forces.*（Ch.8, p.147）
+
+「自然」と呼ばれるもの——草、木、冬の風、深い青い水、キツネ、雨——は、すべて自らの内なる力と完全に和解しているもの。「自然でないもの」とは、自らの内なる力と対立しているものにすぎない。
+
+> *All those things which we loosely call nature...are just those things which are perfectly reconciled with their own inner forces. And the things which are not "nature" are just those things which are at odds with their own inner forces.*（Ch.8, p.148）
+
+### 2. 全体性のある系 = 部分が唯一であること
+
+> *It is a crucial fact about the wholeness of the tree that every leaf be slightly different from the next.*（Ch.8, p.148）
+
+部品が同一・モジュール的な系は全体性を持てない。唯一性は美的付加物ではなく、**全体性の構造的条件**。
+
+> *No system whose component parts are so unresponsive to the forces they are subject to, could maintain itself successfully; it could not be alive or whole.*（Ch.8, p.148）
+
+### 3. 有機的全体性 = 部分の全体への適応
+
+> *The quality without a name, like all forms of organic wholeness, depends essentially on the degree of adaptation of the parts within the whole.*（Ch.9, p.163）
+
+### 4. 全体が部分に先行する
+
+> *It is not a process of addition, in which preformed parts are combined to create a whole, but a process of unfolding, like the evolution of an embryo, in which the whole precedes the parts, and actually gives birth to them, by splitting.*（Ch.19, 詳細目次）
+
+---
+
+## アレグザンダーとの接続（Scrapbox）
 
 > アレグザンダーの全体性の話は、部分ー全体の関係とは別に、形としての全体ー部分・センター・15のプロパティの話が出てきて混乱する。まずは部分ー全体の関係性（形はおいておく）についての理解を得て、次に形の問題に目を向けるといい。
 
@@ -78,6 +110,7 @@ updated: 2026-04-16
 - [[agile-health-kaizen]] — 「カラダにおける全体性の回復」をテーマにしたTakeshiの著書
 - [[src-tkskkd-world-scrapbox]] — 出典元
 - [[src-medium-kkd]] — Medium記事：全体最適・スティーブジョブスの自然観
+- [[src-timeless-way-of-building]] — TWoB Ch.8「The quality itself」：全体性の一次定義
 
 ## Medium 関連記事
 

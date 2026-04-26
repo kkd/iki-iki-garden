@@ -143,6 +143,7 @@ The Nature of Orderの中心概念。世界はセンター（中心性）の重�
 - [[henri-bortoft]] — ボルフト：同じ問いの哲学的言語化、本物/にせの全体性との対比
 - [[u-theory]] — U理論がアレグザンダー著作を参考文献に明示（Timeless, APL, NOO Vol.4）
 - [[agile-health-kaizen]] — 「アジャイル式」健康カイゼンガイド：「構造保存変容なんだよね」とTakeshi自身が明言した著書
+- [[src-timeless-way-of-building]] — The Timeless Way of Building（1979）：パタン・ランゲージの哲学的基盤の一次資料
 - [[src-tkskkd-world-scrapbox]] — 出典元
 - [[src-medium-kkd]] — Medium「題名のない対話」シリーズ
 - [[src-giantech-blog]] — giantech.jp 旧ブログ：震災復興・Agile Tour Osakaワークショップ・USM本

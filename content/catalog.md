@@ -12,6 +12,7 @@
 - [src-has-manual](src-has-manual.md) — HAS マニュアル（Takeshi Kakeda著, v2.4.6, 2025-12-30）：Human Attunement System の仕様書。Manifesto・調律/調整/適合・PFA・State Patterns
 - [src-battle-unpublished-chapter](src-battle-unpublished-chapter.md) — "Battle"未収録章（Alexander, 2010）：System A/B amalgam構想。東野高校成功の4要因・Mixed contract・80%満足の自己評価
 - [src-small-beautiful-village](src-small-beautiful-village.md) — 「小さな美しい村」（細井久栄著、2025年2月）：盈進学園東野高校建設回想録。パタン・ランゲージ実践・利用者参加・構造保存変容・System A/B統合
+- [src-timeless-way-of-building](src-timeless-way-of-building.md) — The Timeless Way of Building（Christopher Alexander, 1979）：パタン・ランゲージの哲学的基盤。名前のない質・生成的プロセス・学んで手放す・全体が部分に先行する
 - [src-tkskkd-world-scrapbox](src-tkskkd-world-scrapbox.md) — tkskkd-worldのScrapboxエクスポート全2,836ページの概要（2026-04-14）
 - [src-tkskkd-com](src-tkskkd-com.md) — tkskkd.com マイクロポスト1,811件（2020〜2024）。Known プラットフォーム。日々の気づき・アジャイル・全体性・体験主義・自然実践
 - [src-pattern-theory](src-pattern-theory.md) — パタン・セオリー（ライトナー著、懸田剛訳、2024年日本語版）：15の生命特性・応用例・ポパーとの接続
@@ -50,6 +51,7 @@
 - [wholeness](wholeness.md) — 全体性：ゲーテ・アレグザンダーを貫く有機的・統合的認識論
 - [zoka](zoka.md) — 造化：芭蕉「笈の小文」=アレグザンダー The Nature of Order。東西の参与的認識論を貫く中核概念
 - [structure-preserving-transformation](structure-preserving-transformation.md) — 構造保存変容：既存構造の潜在力を活かしながら調和を高める変容。アレグザンダーの核心的思想。盈進学園東野高校での実装例
+- [generative](generative.md) — 生成的（Generative）：外から押しつけず内なる構造・願いから形が展開する性質。アレグザンダーの生成的プロセス・Takeshiの認識論的方向・守破離「離」の共通構造
 - [system-a-b-integration](system-a-b-integration.md) — System A/B の統合：感性と合理性の対立を超える統合。度合いではなく「AもB も」。おしん会議モデル。簡単ではない道
 - [participatory-knowing](participatory-knowing.md) — 参与的認識論：対象と一体化することで初めて見えるもの。ポランニー・ゲーテ・芭蕉を貫く認識の根本原理。アジャイル言説批評への接続
 - [participatory-knowing-complementarity](participatory-knowing-complementarity.md) — 参与的認識の相互補完：専門家（土地の声）と利用者（生活ニーズ）の参与的認識の相互補完。東野高校での実装例
@@ -57,6 +59,7 @@
 - [ou-musho-ju](ou-musho-ju.md) — 応無所住而生其心：守破離「離」の禅語。どこにも留まらない不動智の心
 - [ga-shu-ha-ri](ga-shu-ha-ri.md) — 我守破離：守破離の前に「我」＝我流の試行錯誤を置いた拡張モデル。フレームワーク弊害の根本解決
 - [observer-in-wholeness](observer-in-wholeness.md) — 観測者を含めた全体性：自己分離との不可分性。アレグザンダー「感情を使う」に直結。**深化中**
+- [quality-of-life](quality-of-life.md) — 生命の質：「生き生きしている」感覚は客観的物差し（アレグザンダー）。感情を使った判断・自己分離との関係・生成的プロセスが向かう先
 - [self-separation](self-separation.md) — 自己分離（自己疎外）：痛みの回避から始まる防衛メカニズム。全体性・NVC・メンタルモデルと不可分
 - [self-understanding](self-understanding.md) — 自己理解：「自分を知る」の深さの層（表層→信念→痛み）。無意識・自動反応（生存適合OS）の構造。NVC・メンタルモデル・守破離との接続
 - [human-understanding](human-understanding.md) — 人間理解：「人間中心」の先にある内的世界の理解へのパラダイム転換。自己理解→Unfoldingの組織論

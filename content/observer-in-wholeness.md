@@ -138,6 +138,7 @@ tkskkd.comに投稿された、アレグザンダーとメンタルモデルを�
 
 ## 関連ページ
 
+- [[quality-of-life]] — 生命の質：mirror-of-the-self test の対象概念。感情を使って判断する「何か」
 - [[wholeness]] — 全体性：本ページの土台
 - [[observer-quantum]] — 観測者問題と量子論：量子論との接続の慎重な扱い方
 - [[participatory-knowing-complementarity]] — 参与的認識の相互補完：専門家と利用者の観測者込み統合

@@ -149,6 +149,7 @@ updated: 2026-04-17
 
 ## 関連ページ
 
+- [[generative]] — 生成的：生成的プロセスの概念整理。構造保存変容と同型の認識論
 - [[participatory-knowing-complementarity]] — 専門家と利用者の参与的認識の相互補完
 - [[system-a-b-integration]] — System A/B の統合
 - [[christopher-alexander]] — アレグザンダーの理論と実践
