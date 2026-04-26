@@ -10,7 +10,7 @@ updated: 2026-04-23
 神経解剖学者。1996年に脳卒中（左脳の大量出血）を発症し、左脳機能を失った状態で右脳のみで生きる体験をした。8年かけて回復し、その体験から「脳にはどのような機能が宿っているのか」を内側から記述した。
 
 主著：
-- 『[奇跡の脳](https://amzn.to/3zbndpn)』（*My Stroke of Insight*, 2008）── 脳卒中体験の記録
+- 『[奇跡の脳](https://amzn.asia/d/0cCXscBy)』（*My Stroke of Insight*, 2008）── 脳卒中体験の記録
 - 『[WHOLE BRAIN（ホール・ブレイン）心が軽くなる「脳」の動かし方](https://www.amazon.co.jp/WHOLE-BRAIN%EF%BC%88%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%BB%E3%83%96%E3%83%AC%E3%82%A4%E3%83%B3%EF%BC%89-%E5%BF%83%E3%81%8C%E8%BB%BD%E3%81%8F%E3%81%AA%E3%82%8B%E3%80%8C%E8%84%B3%E3%80%8D%E3%81%AE%E5%8B%95%E3%81%8B%E3%81%97%E6%96%B9-%E3%82%B8%E3%83%AB%E3%83%BB%E3%83%9C%E3%83%AB%E3%83%83%E3%83%88%E3%83%BB%E3%83%86%E3%82%A4%E3%83%A9%E3%83%BC-ebook/dp/B0B4NT4R5D)』（*Whole Brain Living*, 2021）── 4キャラクターモデルの実践論
 
 ---

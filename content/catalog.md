@@ -23,6 +23,7 @@
 - [src-agile-pattern-language-2013](src-agile-pattern-language-2013.md) — 「Using Pattern → Generating Pattern」スライド（2013）：Gemba Pattern Community構想、ScrumPLoP 2013、パタン生成の実践論
 - [src-ideation-workshop-pattern-canvas-2013](src-ideation-workshop-pattern-canvas-2013.md) — 発想ワークショップ（2013）：パタン・キャンバス（Context/Problem/Force/Solution）の2013年版。初出は2011年
 - [src-pattern-canvases-2011](src-pattern-canvases-2011.md) — Pattern Canvases（2011/09/27）：パタン・キャンバス**最古の初出**。5つの使用モード・Force Canvas・BusinessModelingGeneration参照
+- [src-haikyuu-human-diversity](src-haikyuu-human-diversity.md) — ハイキュー！！と人間多様性チーム（スクフェス大阪2024/06/22）：PCM6タイプとキャラのマッピング。心理的ニーズ・ディストレス・チームスタイル比較。「自分接待最重要」
 
 ### Entities（エンティティ）
 - [christopher-alexander](christopher-alexander.md) — クリストファー・アレグザンダー：建築家。パタン・ランゲージ・The Nature of Order。51ページ言及、追悼記事集を主導
@@ -52,7 +53,9 @@
 - [zoka](zoka.md) — 造化：芭蕉「笈の小文」=アレグザンダー The Nature of Order。東西の参与的認識論を貫く中核概念
 - [structure-preserving-transformation](structure-preserving-transformation.md) — 構造保存変容：既存構造の潜在力を活かしながら調和を高める変容。アレグザンダーの核心的思想。盈進学園東野高校での実装例
 - [generative](generative.md) — 生成的（Generative）：外から押しつけず内なる構造・願いから形が展開する性質。アレグザンダーの生成的プロセス・Takeshiの認識論的方向・守破離「離」の共通構造
-- [system-a-b-integration](system-a-b-integration.md) — System A/B の統合：感性と合理性の対立を超える統合。度合いではなく「AもB も」。おしん会議モデル。簡単ではない道
+- [system-a-b-integration](system-a-b-integration.md) — System A/B の統合：感性と合理性の対立を超える統合。度合いではなく「AもBも」。おしん会議モデル。簡単ではない道
+- [system-ab-brain-hypothesis](system-ab-brain-hypothesis.md) — System A/B × 左脳・右脳対応仮説（Takeshi）：System A＝右脳・System B＝左脳。マクギルクリスト「使者が主人を乗っ取った」と接続。統合に「橋渡し役」が必要な理由の深層
+- [system-ab-civilizational-arc](system-ab-civilizational-arc.md) — 文明史的アーク仮説（Takeshi）：人類は System B の極を経て A+B 融合（amalgam）へ。守破離・ティール発達段階と同型
 - [participatory-knowing](participatory-knowing.md) — 参与的認識論：対象と一体化することで初めて見えるもの。ポランニー・ゲーテ・芭蕉を貫く認識の根本原理。アジャイル言説批評への接続
 - [participatory-knowing-complementarity](participatory-knowing-complementarity.md) — 参与的認識の相互補完：専門家（土地の声）と利用者（生活ニーズ）の参与的認識の相互補完。東野高校での実装例
 - [shu-ha-ri](shu-ha-ri.md) — 守破離：学習段階論。通説の「順番」解釈への根本的疑問を含む

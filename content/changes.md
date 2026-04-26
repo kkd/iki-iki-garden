@@ -16,12 +16,17 @@ updated: 2026-04-25
 
 ### 🆕 新しい概念ページ
 
+- [[system-ab-brain-hypothesis]] ── System A/B × 左脳・右脳対応仮説：System A＝右脳・System B＝左脳。マクギルクリスト「使者が主人を乗っ取った」と接続。amalgam 実現に橋渡し役が必要な理由の深層（[[system-a-b-integration]] から分離）
+- [[system-ab-civilizational-arc]] ── 文明史的アーク仮説：人類は System B の極を経て A+B 融合（amalgam）へというプロセス。守破離・ティール発達段階と同型（[[system-a-b-integration]] から分離）
+
 - [[diversity]] ── 多様性（生物多様性と人間多様性）：生物多様性と人間多様性は同型・不可分。「役に立つかどうか」で存在を測る価値観への問い直し。里山のパタン・ランゲージ構想含む
 
 - [[generative]] ── 生成的（Generative）：アレグザンダーの生成的プロセス・Takeshiの認識論的「生成的方向」・守破離の「離」を統合した概念ページ
 - [[quality-of-life]] ── 生命の質：「生き生きしている」感覚は客観的物差し（アレグザンダー）。感情を使った判断・自己分離との不可分性・生成的プロセスが向かう先
 
 ### 📚 新ソース取り込み
+
+- [[src-haikyuu-human-diversity]] ── ハイキュー！！と人間多様性チーム（スクフェス大阪2024）：PCM6タイプとキャラのマッピング・心理的ニーズ・ディストレス・チームスタイル比較。「自分接待最重要」「今いる人々で越えていけ！！」
 
 - [[src-timeless-way-of-building]] ── The Timeless Way of Building（Christopher Alexander, 1979）：名前のない質・生成的プロセス・守破離の「離」との同型・全体が部分に先行する
 
