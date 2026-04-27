@@ -29,6 +29,7 @@
 - [christopher-alexander](christopher-alexander.md) — クリストファー・アレグザンダー：建築家。パタン・ランゲージ・The Nature of Order。51ページ言及、追悼記事集を主導
 - [hosoi-hisae](hosoi-hisae.md) — 細井久栄：東野高校施主側責任者・「小さな美しい村」著者。System A/B amalgam実現の橋渡し役
 - [henri-bortoft](henri-bortoft.md) — ヘンリー・ボルフト：ゲーテの科学を「意識的参与」として体系化。にせ/本物の全体性の区別
+- [counterfeit-wholeness](counterfeit-wholeness.md) — にせの全体性 vs 本物の全体性（Bortoft）：部分を集めても全体に届かない理由。システム思考止まりの構造・各領域への展開
 - [michael-polanyi](michael-polanyi.md) — マイケル・ポランニー：暗黙知・from-to構造。「語れることより多くを知っている」。ボルフト・野中の認識論的源泉
 - [david-hawkins](david-hawkins.md) — デヴィッド・ホーキンズ：意識のマップ・パワーvsフォース。wiki全体を貫く「意識の縦軸」
 - [nonaka-ikujiro](nonaka-ikujiro.md) — 野中郁次郎：SECIモデル。暗黙知→形式知の変換プロセスと「場（Ba）」の理論
@@ -53,6 +54,7 @@
 - [zoka](zoka.md) — 造化：芭蕉「笈の小文」=アレグザンダー The Nature of Order。東西の参与的認識論を貫く中核概念
 - [structure-preserving-transformation](structure-preserving-transformation.md) — 構造保存変容：既存構造の潜在力を活かしながら調和を高める変容。アレグザンダーの核心的思想。盈進学園東野高校での実装例
 - [generative](generative.md) — 生成的（Generative）：外から押しつけず内なる構造・願いから形が展開する性質。アレグザンダーの生成的プロセス・Takeshiの認識論的方向・守破離「離」の共通構造
+- [unfolding](unfolding.md) — 展開（Unfolding）：全体が先にあり部分はそこから生まれる生成プロセス。構築（Construction）との対比。ボーム/ボルフト/アレグザンダーの三者同型・造化との一致・組織Unfoldingへの展開
 - [system-a-b-integration](system-a-b-integration.md) — System A/B の統合：感性と合理性の対立を超える統合。度合いではなく「AもBも」。おしん会議モデル。簡単ではない道
 - [system-ab-brain-hypothesis](system-ab-brain-hypothesis.md) — System A/B × 左脳・右脳対応仮説（Takeshi）：System A＝右脳・System B＝左脳。マクギルクリスト「使者が主人を乗っ取った」と接続。統合に「橋渡し役」が必要な理由の深層
 - [system-ab-civilizational-arc](system-ab-civilizational-arc.md) — 文明史的アーク仮説（Takeshi）：人類は System B の極を経て A+B 融合（amalgam）へ。守破離・ティール発達段階と同型

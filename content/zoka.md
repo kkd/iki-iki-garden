@@ -57,13 +57,13 @@ Takeshiのwikiにおける中核概念のひとつ。**[[matsuo-basho]] 芭蕉�
 
 これは [[felt-state-pattern]]（FSP）の「しなければならない」→「ありたい」への転換、[[mental-model]] の痛みからの解放、[[david-hawkins]] の「フォースからパワーへ」と同型の認識論的移行。
 
-| 造化に従わない | 造化に従う |
-|---|---|
-| 世俗的成功・外部価値基準 | 風羅坊（内なる真実） |
-| [[david-hawkins]] フォース | [[david-hawkins]] パワー |
-| [[henri-bortoft]] にせの全体性 | [[henri-bortoft]] 本物の全体性 |
-| [[felt-state-pattern]] Armor | [[felt-state-pattern]] ありたい |
-| 生命の質が低い構造 | 生命の質が高い構造 |
+| 造化に従わない                                             | 造化に従う                                   |
+| --------------------------------------------------- | --------------------------------------- |
+| 世俗的成功・外部価値基準                                        | 風羅坊（内なる真実）                              |
+| [[david-hawkins]] フォース                              | [[david-hawkins]] パワー                   |
+| [[henri-bortoft]] [[counterfeit-wholeness\|にせの全体性]] | [[henri-bortoft]] 本物の[[wholeness\|全体性]] |
+| [[felt-state-pattern]] Armor                        | [[felt-state-pattern]] ありたい             |
+| 生命の質が低い構造                                           | 生命の質が高い構造                               |
 
 ## 東西の出会い
 
@@ -103,6 +103,7 @@ Takeshiのwikiにおける中核概念のひとつ。**[[matsuo-basho]] 芭蕉�
 - [[felt-state-pattern]] — FSP：造化を遮る防御反応の構造
 - [[shu-ha-ri]] — 守破離：「其貫道する物は一なり」との共鳴
 - [[wholeness-health]] — 「自然の意に沿った食べ方」への展開
+- [[binary-thinking-vs-wholeness]] — 二元論から度合いへ：このwikiの比較テーブルの読み方
 - [[src-note-kkd]] — note記事「笈の小文から紐解く造化とNOO」（2024-12-28）
 ## 関連 docswell スライド
 
