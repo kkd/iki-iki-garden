@@ -2,7 +2,7 @@
 title: 盈進学園東野高等学校 — パタン・ランゲージの世界最大規模実装
 tags: [entity, christopher-alexander, pattern-language, wholeness, structure-preserving-transformation]
 sources: [src-small-beautiful-village]
-updated: 2026-04-17
+updated: 2026-04-27
 ---
 
 # 盈進学園東野高等学校
@@ -118,6 +118,10 @@ updated: 2026-04-17
 - システム A（感性）と System B（合理性）の補完的統合が必須
 - 参加型デザインには「参加支援の支援」が重要
 - 専門家の役割：利用者の自信を奪わない伴走
+
+### 文明史的アークにおける位置
+
+[[system-ab-civilizational-arc|System B の極を経て融合へ]]の枠組みで読むと、本プロジェクト（1978-1985）は **「守」の只中に「破」の扉を 20 年近く先んじて開いた先駆例** となる。日本がバブル経済・合理主義の頂点に向かいつつあった時期に、A+B の amalgam を局所的に実装してしまったため、周囲との軋轢が大きく、長期的維持には [[hosoi-hisae|細井久栄]] のような橋渡し個人が不可欠だった。アレグザンダーが単なる「守」の批判者ではなく、**「離」を「守」の最盛期に先取りして見せた人**であったことの裏付け。
 
 ## 関連 note.com 記事
 
