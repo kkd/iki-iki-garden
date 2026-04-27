@@ -12,6 +12,7 @@
 - [src-has-manual](src-has-manual.md) — HAS マニュアル（Takeshi Kakeda著, v2.4.6, 2025-12-30）：Human Attunement System の仕様書。Manifesto・調律/調整/適合・PFA・State Patterns
 - [src-battle-unpublished-chapter](src-battle-unpublished-chapter.md) — "Battle"未収録章（Alexander, 2010）：System A/B amalgam構想。東野高校成功の4要因・Mixed contract・80%満足の自己評価
 - [src-small-beautiful-village](src-small-beautiful-village.md) — 「小さな美しい村」（細井久栄著、2025年2月）：盈進学園東野高校建設回想録。パタン・ランゲージ実践・利用者参加・構造保存変容・System A/B統合
+- [src-brain-unified-theory](src-brain-unified-theory.md) — 乾敏郎『脳の大統一理論 自由エネルギー原理とはなにか』（岩波科学ライブラリー）：FEP・マルコフブランケット・非物質的確率的信念関数の解説
 - [src-timeless-way-of-building](src-timeless-way-of-building.md) — The Timeless Way of Building（Christopher Alexander, 1979）：パタン・ランゲージの哲学的基盤。名前のない質・生成的プロセス・学んで手放す・全体が部分に先行する
 - [src-tkskkd-world-scrapbox](src-tkskkd-world-scrapbox.md) — tkskkd-worldのScrapboxエクスポート全2,836ページの概要（2026-04-14）
 - [src-tkskkd-com](src-tkskkd-com.md) — tkskkd.com マイクロポスト1,811件（2020〜2024）。Known プラットフォーム。日々の気づき・アジャイル・全体性・体験主義・自然実践
@@ -100,6 +101,9 @@
 
 - [wholeness-health](wholeness-health.md) — 健康の全体論：健康生成論・ポジティヴヘルス・食・身体運動・アジャイル式健康カイゼンの集成
 - [science-wholeness-tension](science-wholeness-tension.md) — 科学・医学的批判と全体性知識の緊張：「疑似科学」批判とポパー・クーン・ラカトシュによる応答
+- [inochi-no-negai](inochi-no-negai.md) — いのちの願い：FEP が説明する HOW の外にある WHAT。「今ないものを作り出す」「理不尽を変える」衝動。防衛層の最深部にあり、ソース・造化・「ありたい」と接続
+- [free-energy-principle](free-energy-principle.md) — 自由エネルギー原理（Friston）：予測誤差の最小化・能動的推論・精度重み付けと、不快回避・自己分離・参与的認識との同型構造
+- [hyperprior](hyperprior.md) — 超事前分布：信念の変えにくさを決めるメタ信念。信念解体 = hyperprior の確からしさを低減すること
 - [binary-thinking-vs-wholeness](binary-thinking-vs-wholeness.md) — 二元論的思考から「度合い」への転換：「生きている/死んでいる」ではなく「生命の質」で理解する
 - [framework-paradox](framework-paradox.md) — フレームワークのパラドックス：得るもの（効率化・認知負荷低減）と失うもの（体験・全体視野）の分析
 - [brain-hemispheres](brain-hemispheres.md) — 左脳・右脳（大脳半球の非対称性）：ジェインズ（二分心）・ジル・ボルト・テイラー（WHOLE BRAIN）・マクギルクリスト（主人と使者）を束ねる認識論的ハブ

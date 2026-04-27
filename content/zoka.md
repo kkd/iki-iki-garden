@@ -103,6 +103,7 @@ Takeshiのwikiにおける中核概念のひとつ。**[[matsuo-basho]] 芭蕉�
 - [[felt-state-pattern]] — FSP：造化を遮る防御反応の構造
 - [[shu-ha-ri]] — 守破離：「其貫道する物は一なり」との共鳴
 - [[wholeness-health]] — 「自然の意に沿った食べ方」への展開
+- [[inochi-no-negai]] — いのちの願い：造化の WHAT にあたる衝動。FEP（HOW）と造化（WHAT+HOW の一体）の接続
 - [[binary-thinking-vs-wholeness]] — 二元論から度合いへ：このwikiの比較テーブルの読み方
 - [[src-note-kkd]] — note記事「笈の小文から紐解く造化とNOO」（2024-12-28）
 ## 関連 docswell スライド

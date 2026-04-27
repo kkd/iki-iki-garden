@@ -52,6 +52,8 @@ updated: 2026-04-14
 - [[felt-state-pattern]] — FSP：メンタルモデルの防衛反応構造を組織の場レベルで記述したTakeshiのオリジナル概念
 - [[david-hawkins]] — 意識レベル：分離の意識（フォース）vs 源・全体性の意識（パワー）
 - [[running]] — ランニング：痛みとの対話による「分離から統合」の身体実装版
+- [[free-energy-principle]] — 自由エネルギー原理：コアビリーフ = 固定した生成モデル。痛みの統合 = 予測誤差を受け入れてモデルを更新する過程
+- [[inochi-no-negai]] — いのちの願い：防衛層（コアビリーフ・Armor）の最深部にある生命の方向性
 - [[src-tkskkd-world-scrapbox]] — 出典元
 ## note.com 関連記事
 

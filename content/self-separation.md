@@ -243,6 +243,7 @@ updated: 2026-04-17
 - [[agile-health-kaizen]] — 「アジャイル式」健康カイゼンガイド：実践的な転換
 - [[running]] / [[parkour]] — 身体を通じた自己統合・いまここへの没入
 - [[polyvagal-theory]] — ポリヴェーガル理論：慢性的交感神経優位・Freeze が自己分離の神経生理学的基盤
+- [[free-energy-principle]] — 自由エネルギー原理：精度重み付けの調整による内的シグナル抑制として自己分離を説明
 
 ## note.com 関連記事
 

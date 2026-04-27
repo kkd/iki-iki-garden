@@ -128,3 +128,5 @@ status: 仮説 ── 検証されていないが、体験的根拠がある
 - [[biotope-ecosystem-wholeness]] — ビオトープと生態系：虫を含む生態系の全体性
 - [[nature-observation]] — 自然観察：虫との直接的な関係の土台
 - [[aquatic-insects]] — 水生昆虫：タガメ・ゲンゴロウとの関係
+- [[free-energy-principle]] — 自由エネルギー原理：虫嫌い = マルコフブランケットの不透過状態（外界版の自己分離）
+- [[hyperprior]] — 超事前分布：「虫は汚い」という固着した hyperprior が透過を妨げる
