@@ -83,6 +83,7 @@ ingest/update のたびに更新される。
 - [free-energy-principle](free-energy-principle.md) — 自由エネルギー原理（Friston）：予測誤差の最小化・能動的推論・精度重み付けと、不快回避・自己分離・参与的認識との同型構造
 - [hyperprior](hyperprior.md) — 超事前分布：信念の変えにくさを決めるメタ信念。信念解体 = hyperprior の確からしさを低減すること
 - [inochi-no-negai](inochi-no-negai.md) — いのちの願い：FEP が説明する HOW の外にある WHAT。「今ないものを作り出す」「理不尽を変える」衝動。防衛層の最深部
+- [inochi-emergence-response](inochi-emergence-response.md) — **いのちの湧出と応答の原理**：内側からの湧出は止められない。抑圧／単なる解放／真の応答の三項構造。火山・森林火災・洪水と同型の cross-field 原理（2026-04-28 確立）
 - [mental-model](mental-model.md) — ザ・メンタルモデル：痛みの分離から統合へ。コアビリーフ＝固定した生成モデル。★★★★★
 - [self-separation](self-separation.md) — 自己分離：痛みの回避から始まる防衛メカニズム。FEP の精度重み付け調整と同型
 - [felt-state-pattern](felt-state-pattern.md) — 感応状態パターン（FSP）：Takeshi オリジナル。NVC・メンタルモデル・アレグザンダー統合。論文近刊予定

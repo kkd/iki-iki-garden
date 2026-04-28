@@ -2,7 +2,7 @@
 title: 分野を超えて共通する原理（見えないつながり）
 tags: [concept, メタ, 認識論, メタファー, パタン, 全体性]
 sources: [src-tkskkd-world-scrapbox, src-note-kkd, src-slideshare-kkd]
-updated: 2026-04-16
+updated: 2026-04-28
 ---
 
 # 分野を超えて共通する原理（見えないつながり）
@@ -47,22 +47,48 @@ Takeshi自身の整理：
 
 この原型（パーマカルチャー / XP / パタン・ランゲージ）の発見以降、Takeshiは次々と分野横断的な同型構造を見出していく：
 
-| 領域A | 領域B | 共通原理 |
-|---|---|---|
-| [[xp]] / TDD | [[christopher-alexander]] [[structure-preserving-transformation]] | コードも建築も「化すを通じて成る」 |
-| [[xp]] | [[mental-model]] | インテグリティ = 自分の内側をみる |
-| [[xp]] | 持続可能性 / [[circular-society]] | Sustainable Pace, Balanced |
-| [[christopher-alexander]] NOO | [[matsuo-basho]] 造化 | → [[zoka]] 東西で一致 |
-| [[christopher-alexander]] feeling | [[oka-kiyoshi]] 情緒 | 参与的認識の東西同型 |
-| [[parkour]] / ベアフットラン | [[michael-polanyi]] from-to構造 | 近位的手がかりと遠位的焦点 |
-| [[nvc]] | [[mental-model]] | 感情とニーズ（内側へのアプローチ） |
-| [[teal-organization]] | [[mental-model]] | 全体性（Wholeness）は個人の内的変容から |
-| [[felt-state-pattern]] | [[nvc]] / [[mental-model]] / [[christopher-alexander]] | 場の力学のパタン・ランゲージ化 |
-| [[permaculture]] | [[biotope-ecosystem-wholeness]] | 人の循環 × 生物の共生 |
-| [[agile-health-kaizen]] | [[christopher-alexander]] 構造保存変容 | 健康もコードも「いまここから」 |
-| [[wholeness-health]] 食 | [[zoka]] 造化 | 「自然の意に沿う」 |
+| 領域A                               | 領域B                                                               | 共通原理                                              |
+| --------------------------------- | ----------------------------------------------------------------- | ------------------------------------------------- |
+| [[xp]] / TDD                      | [[christopher-alexander]] [[structure-preserving-transformation]] | コードも建築も「化すを通じて成る」                                 |
+| [[xp]]                            | [[mental-model]]                                                  | インテグリティ = 自分の内側をみる                                |
+| [[xp]]                            | 持続可能性 / [[circular-society]]                                      | Sustainable Pace, Balanced                        |
+| [[christopher-alexander]] NOO     | [[matsuo-basho]] 造化                                               | → [[zoka]] 東西で一致                                  |
+| [[christopher-alexander]] feeling | [[oka-kiyoshi]] 情緒                                                | 参与的認識の東西同型                                        |
+| [[parkour]] / ベアフットラン             | [[michael-polanyi]] from-to構造                                     | 近位的手がかりと遠位的焦点                                     |
+| [[nvc]]                           | [[mental-model]]                                                  | 感情とニーズ（内側へのアプローチ）                                 |
+| [[teal-organization]]             | [[mental-model]]                                                  | 全体性（Wholeness）は個人の内的変容から                          |
+| [[felt-state-pattern]]            | [[nvc]] / [[mental-model]] / [[christopher-alexander]]            | 場の力学のパタン・ランゲージ化                                   |
+| [[permaculture]]                  | [[biotope-ecosystem-wholeness]]                                   | 人の循環 × 生物の共生                                      |
+| [[agile-health-kaizen]]           | [[christopher-alexander]] 構造保存変容                                  | 健康もコードも「いまここから」                                   |
+| [[wholeness-health]] 食            | [[zoka\|造化]]                                                      | 「自然の意に沿う」                                         |
+| [[free-energy-principle]] 抑圧コスト   | 山火事・火山・洪水（自然循環）                                                   | [[inochi-emergence-response\|いのちの湧出と応答の原理]]：抑圧／単なる解放／真の応答の三項構造 |
 
 **すべて同じ一つの認識論の異なる現れ**として読める。これが [[overview]] で言う「認識するとは参与することだ」クラスター。
+
+### 「いのちの湧出と応答」原理（2026-04 確立）
+
+→ 独立ページ：**[[inochi-emergence-response|いのちの湧出と応答の原理]]**
+
+[[free-energy-principle|FEP]] における自我の抑圧コスト構造が、自然界の循環システム（森林火災・火山・洪水と沖積平野）と同じパタンで動いている。**「抑圧／単なる解放／真の応答」の三項構造**——多少の不快を引き受けて応答することが、湧出を危険物ではなく滋養に転化する：
+
+- **内部からの湧出は止められない**（落葉・マグマ・河水 ↔ 身体・[[inochi-no-negai|いのちの願い]]）
+- **自我は外側で抑え込もうとする**（ダム・煙突封鎖 ↔ [[hyperprior]] による精度重み付け低減）
+- **抑圧の限界で暴発**（メガファイア・大噴火・決壊 ↔ 鬱・身体症状・突発的崩壊）
+- **真の応答で滋養になる**（腐葉土・火山土壌・沖積平野 ↔ 創造・[[zoka|造化]]・[[unfolding|展開]]）
+- **応答そのものが発芽条件**（serotinous seeds ↔ 抑圧されていたものが新しい自分の種）
+
+この同型は「**抑圧されているものは危険物ではなく、深部からしか届けられない凝縮された滋養**」という認識を支える。System A → B の転換点が [[system-ab-civilizational-arc|文明史]] にも個人にも同じ構造で現れる。
+
+#### 元の3円（XP × パーマカルチャー × パタン・ランゲージ）を統合する位置にある
+
+この原理は本質的に**人と自然（外の自然も、自分自身の内なる自然も）との関係性の根本原理**である。本ページ冒頭で示した「3つの円」がなぜ違う分野で同じことを実現しようとしていたのかへの一つの答えにもなる：
+
+- **里山・[[permaculture|パーマカルチャー]]** — 外の自然（森・水・土・生き物）の湧出に対する人間の応答。萌芽更新・水路設計・落葉堆肥・「問題は解決策である」（Mollison）
+- **[[xp]]・アジャイル** — コードベース・チーム・顧客ニーズの湧出に対する開発者の応答。[[continuous-integration|CI]]・[[refactoring|リファクタリング]]・[[sustainable-pace]]
+- **[[christopher-alexander|アレグザンダー]]・パタン・ランゲージ** — 場の感じ（feeling）・暮らす人の生命の湧出に対する設計者の応答。Quality Without a Name・[[structure-preserving-transformation|構造保存変容]]
+- **[[inochi-emergence-response|いのちの湧出と応答の原理（FEP接続）]]** — 内なる自然（身体・感情・いのちの願い）の湧出に対する自我の応答。[[mental-model|紐解き]]・[[felt-state-pattern|FSP]]・[[self-separation|自己分離]] の解消
+
+外と内、それぞれの「自然との関わり方」を扱っているのが3つの円であり、この4つ目の円（FEP × 心）が加わることで、**外の自然と内の自然を貫く同じ一つの関係性原理**が見えてくる。「多少の不快を引き受ける」という人間側の質も、4領域すべてに共通する条件である。
 
 ## 起源となった古典的問い：其貫道する物は一なり
 
