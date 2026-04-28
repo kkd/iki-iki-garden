@@ -132,6 +132,16 @@ Construction 的発想の成長論は「問題（個性・過去の傷）を除�
 
 ---
 
+## FEP との接続——なぜ Unfolding は難しいか
+
+[[free-energy-principle|自由エネルギー原理]] は Unfolding が難しい理由と、いかにして可能になるかを機構論的に説明する。
+
+FEP の枠組みで「Unfolding の種」にあたるのは [[inochi-no-negai|いのちの願い]]——FEP が説明する機構（HOW）の外にある WHAT である。一方、Unfolding を滞らせているのはコアビリーフ：生存のために自我が形成した信念が [[hyperprior|hyperprior]] として固着し、いのちの願いが動こうとするたびにブレーキとして作動する。
+
+Unfolding の進行は、FEP の言葉では「生存のための信念からいのちの願いへの prior の置き換え」として記述できる——深い prior が更新され、能動的推論の向かう先がシフトしていくプロセス。hyperprior ゆえに更新コストは高く、内側だけでは動きにくい。外部介在・紐解き・信頼できる他者との接触が、「この信念は絶対ではないかもしれない」という余地を開く契機となる。
+
+---
+
 ## 関連ページ
 
 - [[binary-thinking-vs-wholeness]] — 二元論から度合いへ：このwikiの比較テーブルの読み方
@@ -145,3 +155,4 @@ Construction 的発想の成長論は「問題（個性・過去の傷）を除�
 - [[observer-in-wholeness]] — 観測者を含めた全体性：Unfoldingの主体論的側面
 - [[participatory-knowing]] — 参与的認識論：Unfoldingに必要な認識の態度
 - [[src-timeless-way-of-building]] — TWoB Ch.19：Unfoldingの一次定義
+- [[free-energy-principle]] — 自由エネルギー原理：Unfoldingが難しい理由と可能になる機構の説明
