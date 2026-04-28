@@ -80,7 +80,8 @@ ingest/update のたびに更新される。
 - [zoka](zoka.md) — 造化：芭蕉「笈の小文」=アレグザンダー The Nature of Order。東西の参与的認識論を貫く中核概念
 
 #### FEP × いのちの願い × 自己分離 — 認知科学的橋渡し
-- [free-energy-principle](free-energy-principle.md) — 自由エネルギー原理（Friston）：予測誤差の最小化・能動的推論・精度重み付けと、不快回避・自己分離・参与的認識との同型構造
+- [free-energy-principle](free-energy-principle.md) — 自由エネルギー原理（Friston）：予測誤差の最小化・能動的推論・マルコフブランケット・階層性（純粋理論）
+- [fep-connections](fep-connections.md) — FEP × wiki概念の接続：不快回避・コアビリーフ・HOW/WHAT分離・成長論・自然循環など応用・解釈
 - [hyperprior](hyperprior.md) — 超事前分布：信念の変えにくさを決めるメタ信念。信念解体 = hyperprior の確からしさを低減すること
 - [inochi-no-negai](inochi-no-negai.md) — いのちの願い：FEP が説明する HOW の外にある WHAT。「今ないものを作り出す」「理不尽を変える」衝動。防衛層の最深部
 - [inochi-emergence-response](inochi-emergence-response.md) — **いのちの湧出と応答の原理**：内側からの湧出は止められない。抑圧／単なる解放／真の応答の三項構造。火山・森林火災・洪水と同型の cross-field 原理（2026-04-28 確立）

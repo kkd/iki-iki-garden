@@ -43,6 +43,17 @@ updated: 2026-04-28
 - [[mental-model]] ── 紐解きの位置づけを明確化：**セラピーではなく「構造を直視する体験を作り、感情に触れる機会を生む場」**。抵抗が走りやすい→伴走者がムリなく進めることが不可欠（焦ると hyperprior が固着するため）。FEP的に「準備が整う」とは抑圧コストが維持コストを下回る転換点
 - [[hyperprior]] ── 「凍結された過去の予測」セクション新設。形成時点では合理的だった予測が文脈変化に関わらず作動し続ける構造。**自我には hyperprior が見えにくい**構造的理由（メタ層ゆえに自身が信頼する経験のフィルタを持つ）→ 外部介在が確からしさを揺さぶる装置として機能
 
+### 🏗️ FEPページを純粋理論と応用解釈に分離
+
+`free-energy-principle.md` が理論説明と wiki概念への応用解釈が混在していたため2ページに分割。
+
+- [[free-energy-principle]] ── 純粋理論に絞り込み：予測誤差の最小化・3戦略・マルコフブランケット・ダークルーム問題・階層性
+- [[fep-connections]] ── 新規作成。FEP × wiki概念の接続：不快回避との同型・成長論・HOW/WHAT分離・コアビリーフ・抑圧の機構論・自然循環・虫嫌いとの接続
+
+### 🔧 [[inochi-emergence-response]] ── Smokey the Bear 政策に出典追加
+
+米国林野庁の火災抑制政策に関する記述に一次文献を追加：["Smokey Bear and the pyropolitics of United States forest governance"](https://www.sciencedirect.com/science/article/abs/pii/S0962629816301548)（*Political Geography*, 2017）
+
 ### ✏️ FEP×Unfolding接続——「重心シフト」「生命の質」概念の精緻化
 
 FEP と [[unfolding|Unfolding]] の関係を深める対話のなかで、以下の概念的区別が確立：
