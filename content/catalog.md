@@ -77,7 +77,9 @@ ingest/update のたびに更新される。
 - [quality-of-life](quality-of-life.md) — 生命の質：「生き生きしている」感覚は客観的物差し。感情を使った判断・自己分離との関係・生成的プロセスが向かう先
 - [generative](generative.md) — 生成的（Generative）：外から押しつけず内なる構造・願いから形が展開する性質。守破離「離」の共通構造
 - [structure-preserving-transformation](structure-preserving-transformation.md) — 構造保存変容：既存構造の潜在力を活かしながら調和を高める変容。アレグザンダー核心思想・東野高校実装
+- [sawada-mansion](sawada-mansion.md) — 沢田マンション（沢マン）：高知の世界最大級セルフビルド建築。構造保存変容・XPアジャイル・パーマカルチャーの生きた事例。Takeshi 2007〜の継続的関心軸
 - [zoka](zoka.md) — 造化：芭蕉「笈の小文」=アレグザンダー The Nature of Order。東西の参与的認識論を貫く中核概念
+- [noosphere](noosphere.md) — ノウアスフィア（精神圏）：地圏→生物圏→精神圏の3層モデル。テイヤール／ヴェルナツキー由来。アレグザンダー全体性の文明スケール拡張。パタン・セオリー第6章で明示的に接続
 
 #### FEP × いのちの願い × 自己分離 — 認知科学的橋渡し
 - [free-energy-principle](free-energy-principle.md) — 自由エネルギー原理（Friston）：予測誤差の最小化・能動的推論・マルコフブランケット・階層性（純粋理論）
