@@ -56,9 +56,11 @@ ingest/update のたびに更新される。
 
 #### メタ軸 — 見えないつながり
 - [cross-field-principles](cross-field-principles.md) — 分野を超えて共通する原理：XP×パーマカルチャー×パタン・ランゲージの3円発見から始まるwiki全体のメタ軸
+- [metaphor-thinking](metaphor-thinking.md) — メタファー思考：分野横断の発見を支える認識の方法。両義性と安全な使い方（包摂／排除、自然主義の誤謬）
 - [multipotentialite](multipotentialite.md) — マルチ・ポテンシャライト：複数分野を渡り歩く特性。「器用貧乏」の解体。note最大バズ記事（2020、1000いいね）
 - [boryu](boryu.md) — 傍流：主流が取りこぼすものを拾い上げ世界の全体性を回復させる。渋沢敬三「大事なことは主流にならぬことだ」
 - [dekiru-kataru-wakaru](dekiru-kataru-wakaru.md) — できる・かたる・わかる の関係仮説：身体知と言語の統合が「わかる」を生む。SECIモデル批判・インナーゲームとの接続（2019）
+- [shintaisei](shintaisei.md) — 身体性：身体・感情・理性の不可分性が wiki 全体の認識論的基底。ベアフットラン・万年筆・できる/かたる/わかる・身体性メタファー論を束ねるハブ
 
 #### 認識論の核 — 感じの実存・参与・全体性
 - [felt-existence](felt-existence.md) — 感じの実存：「あるものは、ある」（由佐美加子）。自己分離からの統合の起点。軸4・6・8の共通の根
@@ -117,6 +119,8 @@ ingest/update のたびに更新される。
 - [nvc](nvc.md) — NVC（非暴力コミュニケーション）：自己愛・他者愛を基盤とするコミュニケーション手法
 
 #### あり方・神経生理（HAS と Being）
+- [arikata-being](arikata-being.md) — あり方（Being）：「今この瞬間、内側に何があるか、どんな状態から行動しているか」を観察し続けること。Doing/Beingの循環。HAS背景概念。2025年「あり方シリーズ」3本連載で言語化
+- [aru-nai-axis](aru-nai-axis.md) — 「ある」と「ない」：起点の違いが分離と統合を分ける。「ない」から始めると分離、「ある」から始めると統合に近づく。felt-existence・self-separation・inochi-no-negai を貫く認識論的軸
 - [human-attunement-system](human-attunement-system.md) — HAS（Human Attunement System）：選択可能性が失われる連鎖を遮断するセーフティーシステム。調律/調整/適合・PFA・State Patterns
 - [polyvagal-theory](polyvagal-theory.md) — ポリヴェーガル理論：自律神経の3階層。Fear/Freeze の神経的基盤。HAS・4キャラクター・自己分離への接続（探索中）
 - [process-communication-model](process-communication-model.md) — PCM（プロセスコミュニケーションモデル）：6タイプのパーソナリティ論。ディストレス＝Character 2の個性別発火パターン
